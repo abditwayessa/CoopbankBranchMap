@@ -1,0 +1,7084 @@
+[
+  {
+    "district": "Nekemte",
+    "branch_name": "Abba Seena",
+    "type": "Branch",
+    "city": "Gimbi",
+    "city": "Oromia",
+    "longitude": 35.8336691,
+    "latitude": 9.1780719,
+    "phone_number": "0577712191"
+  },
+  {
+    "district": "Nekemte",
+    "branch_name": "Anger Gute",
+    "type": "Branch",
+    "city": "Anger Gute",
+    "city": "Oromia",
+    "longitude": 36.6294114,
+    "latitude": 9.5613207,
+    "phone_number": "0576640110"
+  },
+  {
+    "district": "Nekemte",
+    "branch_name": "Jimma Rare",
+    "type": "Branch",
+    "city": "Wayu",
+    "city": "Oromia",
+    "longitude": 37.3614895,
+    "latitude": 9.2321306,
+    "phone_number": "0576670525"
+  },
+  {
+    "district": "Nekemte",
+    "branch_name": "Leka Dulacha",
+    "type": "Branch",
+    "city": "Gatama",
+    "city": "Oromia",
+    "longitude": 36.4878358,
+    "latitude": 8.8971443,
+    "phone_number": "0576671005"
+  },
+  {
+    "district": "Nekemte",
+    "branch_name": "Oda Karra",
+    "type": "Branch",
+    "city": "Inango",
+    "city": "Oromia",
+    "longitude": 35.6858283,
+    "latitude": 9.1683179,
+    "phone_number": "0575520706"
+  },
+  {
+    "district": "Nekemte",
+    "branch_name": "Qeto Machara",
+    "type": "Branch",
+    "city": "Hawa Galan",
+    "city": "Oromia",
+    "longitude": 34.9951804,
+    "latitude": 8.7354843,
+    "phone_number": "0574469103"
+  },
+  {
+    "district": "Nekemte",
+    "branch_name": "Sayo Nole",
+    "type": "Branch",
+    "city": "Dabaso",
+    "city": "Oromia",
+    "longitude": 35.6507594,
+    "latitude": 8.8490419,
+    "phone_number": "-"
+  },
+  {
+    "district": "Nekemte",
+    "branch_name": "Ukke",
+    "type": "Branch",
+    "city": "Ukke",
+    "city": "Oromia",
+    "longitude": 36.5277678,
+    "latitude": 9.3765519,
+    "phone_number": "0574477055"
+  },
+  {
+    "district": "Nekemte",
+    "branch_name": "Gidami",
+    "type": "Branch",
+    "city": "Gidami",
+    "city": "Oromia",
+    "longitude": 34.6109039,
+    "latitude": 8.984237,
+    "phone_number": "-"
+  },
+  {
+    "branch_name": "Geja Geribo",
+    "type": "Branch",
+    "district": "Hosana",
+    "city": "Hossana",
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0461788930",
+    "latitude": 7.56189,
+    "longitude": 37.852646
+  },
+  {
+    "branch_name": "Aleta Wendo",
+    "district": "Hawassa",
+    "latitude": 6.4901978,
+    "longitude": 38.5205528,
+    "city": "Sidama",
+    "phone_number": "0462242898",
+    "type": "Branch",
+    "city": "Aleta Wendo"
+  },
+  {
+    "branch_name": "Bariso Dukale",
+    "district": "Hawassa",
+    "latitude": 6.4048042,
+    "longitude": 38.3123788,
+    "city": "Oromia",
+    "phone_number": "0464431338",
+    "type": "Branch",
+    "city": "Bule Hora"
+  },
+  {
+    "branch_name": "Dilla",
+    "district": "Hawassa",
+    "latitude": 6.4122341,
+    "longitude": 38.3104272,
+    "city": "South Ethiopia cityal State",
+    "phone_number": "0463314592",
+    "type": "Branch",
+    "city": "Dilla"
+  },
+  {
+    "branch_name": "Nur",
+    "district": "Hawassa",
+    "latitude": 5.33553,
+    "longitude": 39.5777862,
+    "city": "Oromia",
+    "phone_number": "0464450654",
+    "type": "Branch",
+    "city": "Negelle"
+  },
+  {
+    "branch_name": "Wadara",
+    "district": "Hawassa",
+    "latitude": 5.7823151,
+    "longitude": 39.3063059,
+    "city": "Oromia",
+    "phone_number": "0462430416",
+    "type": "Branch",
+    "city": "Wadara"
+  },
+  {
+    "branch_name": "Arafa",
+    "district": "Dire Dawa",
+    "latitude": 9.3501949,
+    "longitude": 42.800548,
+    "city": "Somali",
+    "phone_number": "0252787913",
+    "type": "Branch",
+    "city": "Somali"
+  },
+  {
+    "branch_name": "Burqaa Tirtira ",
+    "district": "Dire Dawa",
+    "latitude": 9.6036036036036,
+    "longitude": 41.8294602800574,
+    "city": "Oromia",
+    "phone_number": "0253350810",
+    "type": "Branch",
+    "city": "Burqaa Tirtira "
+  },
+  {
+    "branch_name": "Chinaqsan",
+    "district": "Dire Dawa",
+    "latitude": 9.5070761,
+    "longitude": 42.6081148,
+    "city": "Oromia",
+    "phone_number": "0252200564",
+    "type": "Branch",
+    "city": "Chinaqsan"
+  },
+  {
+    "branch_name": "Dire Tiyo Eco",
+    "district": "Dire Dawa",
+    "latitude": 9.3697269,
+    "longitude": 42.1083226,
+    "city": "Harari",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Dire Tiyo"
+  },
+  {
+    "branch_name": "Dirre Xayyara Eco Branch",
+    "district": "Dire Dawa",
+    "latitude": 9.3723295,
+    "longitude": 42.1065471,
+    "city": "Harari",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Harar"
+  },
+  {
+    "branch_name": "Ganda Qore",
+    "district": "Dire Dawa",
+    "latitude": 9.586858,
+    "longitude": 41.8494949,
+    "city": "Dire Dawa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Dire Dawa"
+  },
+  {
+    "branch_name": "Kombolcha",
+    "district": "Dire Dawa",
+    "latitude": 9.4407486,
+    "longitude": 42.1199979,
+    "city": "Oromia",
+    "phone_number": "0253380508",
+    "type": "Branch",
+    "city": "Kombolcha"
+  },
+  {
+    "branch_name": "Kurfa Chale",
+    "district": "Dire Dawa",
+    "latitude": 9.2389721,
+    "longitude": 41.8250972,
+    "city": "Oromia",
+    "phone_number": "0252210253",
+    "type": "Branch",
+    "city": "Kurfa Chale"
+  },
+  {
+    "branch_name": "Walta'a",
+    "district": "Dire Dawa",
+    "latitude": 9.3921635,
+    "longitude": 42.0105353,
+    "city": "Oromia",
+    "phone_number": "0256593440",
+    "type": "Branch",
+    "city": "Adelle"
+  },
+  {
+    "branch_name": "Aba Gemechis",
+    "district": "West Finfinne",
+    "latitude": 9.07217,
+    "longitude": 38.68754,
+    "city": "Oromia",
+    "phone_number": "0112704053",
+    "type": "Branch",
+    "city": "Burayu"
+  },
+  {
+    "branch_name": "Abba Jama",
+    "district": "Asalla",
+    "latitude": 8.3750342,
+    "longitude": 39.9066348,
+    "city": "Oromia",
+    "phone_number": "0224710548",
+    "type": "Branch",
+    "city": "Abba Jama"
+  },
+  {
+    "branch_name": "Abishe Gerba",
+    "district": "West Finfinne",
+    "latitude": 9.076939,
+    "longitude": 38.630101,
+    "city": "Oromia",
+    "phone_number": "0112625629",
+    "type": "Branch",
+    "city": "Burayu"
+  },
+  {
+    "BranchCode": "6262",
+    "branch_name": "Abuna",
+    "type": "Branch",
+    "city": "Abuna gindeberet,bake kelate,Oromia",
+    "phone_number": "+251112621528",
+    "latitude": 9.0292261,
+    "longitude": 38.1388527,
+    "district": "West Finfinne"
+  },
+  {
+    "branch_name": "Adelle",
+    "district": "Asalla",
+    "latitude": 7.794836,
+    "longitude": 39.897815,
+    "city": "Oromia",
+    "phone_number": "0224730089",
+    "type": "Branch",
+    "city": "Adelle"
+  },
+  {
+    "branch_name": "Adigrat",
+    "district": "Mekele Relationship Office",
+    "latitude": 14.28218,
+    "longitude": 39.461328,
+    "city": "Tigray",
+    "phone_number": "0342456833",
+    "type": "Branch",
+    "city": "Adigirat"
+  },
+  {
+    "branch_name": "Adi-Haki",
+    "district": "Mekele Relationship Office",
+    "latitude": 13.498873,
+    "longitude": 39.463824,
+    "city": "Tigray",
+    "phone_number": "0344410134",
+    "type": "Branch",
+    "city": "Mekele"
+  },
+  {
+    "branch_name": "Agarfa",
+    "district": "Bale",
+    "latitude": 7.2689155,
+    "longitude": 39.8221943,
+    "city": "Oromia",
+    "phone_number": "0222270164",
+    "type": "Branch",
+    "city": "Agarfa"
+  },
+  {
+    "BranchCode": "ET0010660",
+    "branch_name": "Tullu Jada Eco",
+    "type": "Branch",
+    "city": "malka lami,modjo,Oromia",
+    "phone_number": "",
+    "latitude": 8.7097797,
+    "longitude": 39.1998034,
+    "district": "Adama"
+  },
+  {
+    "branch_name": "Agari Tullu",
+    "district": "East Finfinne",
+    "latitude": 9.0138344,
+    "longitude": 38.852671,
+    "city": "Addis Ababa",
+    "phone_number": "0116681133",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Airport Forex Bureau",
+    "district": "East Finfinne",
+    "latitude": 8.9837511,
+    "longitude": 38.7969944,
+    "city": "Addis Ababa",
+    "phone_number": "0118420332",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Akako",
+    "district": "North Finfinne",
+    "latitude": 9.02013,
+    "longitude": 38.814475,
+    "city": "Addis Ababa",
+    "phone_number": "0116732734",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Ako Manoye",
+    "district": "West Finfinne",
+    "latitude": 9.041756,
+    "longitude": 38.714953,
+    "city": "Addis Ababa",
+    "phone_number": "0112738183",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Aksum",
+    "district": "Mekele Relationship Office",
+    "latitude": 14.124893,
+    "longitude": 38.719795,
+    "city": "Tigray",
+    "phone_number": "0342757873",
+    "type": "Branch",
+    "city": "Aksum"
+  },
+  {
+    "branch_name": "Ali",
+    "district": "Bale",
+    "latitude": 7.244577,
+    "longitude": 39.930553,
+    "city": "Oromia",
+    "phone_number": "0224770602",
+    "type": "Branch",
+    "city": "Agarfa"
+  },
+  {
+    "branch_name": "Amal",
+    "district": "Shashamane",
+    "latitude": 7.219823,
+    "longitude": 38.928718,
+    "city": "Oromia",
+    "phone_number": "0226631214",
+    "type": "Branch",
+    "city": "Adaba"
+  },
+  {
+    "branch_name": "Anno",
+    "district": "Nekemte",
+    "latitude": 9.091515,
+    "longitude": 36.95588,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Anno"
+  },
+  {
+    "branch_name": "Arboye",
+    "district": "Asalla",
+    "latitude": 8.384062,
+    "longitude": 39.686681,
+    "city": "Oromia",
+    "phone_number": "0224700372",
+    "type": "Branch",
+    "city": "Arboye"
+  },
+  {
+    "branch_name": "Artu",
+    "district": "Adama",
+    "latitude": 8.499291,
+    "longitude": 39.285754,
+    "city": "Oromia",
+    "phone_number": "0222122092",
+    "type": "Branch",
+    "city": "Adama"
+  },
+  {
+    "branch_name": "Asabot",
+    "district": "Chiro",
+    "latitude": 9.191854,
+    "longitude": 40.658201,
+    "city": "Oromia",
+    "phone_number": "0255540507",
+    "type": "Branch",
+    "city": "Asabot"
+  },
+  {
+    "branch_name": "Asmerom Legesse",
+    "district": "North Finfinne",
+    "latitude": 9.04505,
+    "longitude": 38.770388,
+    "city": "Addis Ababa",
+    "phone_number": "0111541919",
+    "type": "Branch",
+    "city": "Addis  Ababa"
+  },
+  {
+    "branch_name": "Aster Gano",
+    "district": "Central Finfinne",
+    "latitude": 8.9867276,
+    "longitude": 38.7598179,
+    "city": "Addis Ababa",
+    "phone_number": "0114629825",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Ayira",
+    "district": "Nekemte",
+    "latitude": 9.093323,
+    "longitude": 35.396964,
+    "city": "Oromia",
+    "phone_number": "0575570574",
+    "type": "Branch",
+    "city": "Ayira"
+  },
+  {
+    "branch_name": "Babo Gambel",
+    "district": "Nekemte",
+    "latitude": 9.473087,
+    "longitude": 35.197014,
+    "city": "Oromia",
+    "phone_number": "0576390653",
+    "type": "Branch",
+    "city": "Ayira"
+  },
+  {
+    "branch_name": "Badho Dachas",
+    "district": "Central Finfinne",
+    "latitude": 9.017234,
+    "longitude": 38.73512,
+    "city": "Addis Ababa",
+    "phone_number": "0115577928",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Bake Jamaa",
+    "district": "Nekemte",
+    "latitude": 9.089277,
+    "longitude": 36.539475,
+    "city": "Oromia",
+    "phone_number": "0576600513",
+    "type": "Branch",
+    "city": "Nekemte"
+  },
+  {
+    "branch_name": "Bale Gesgar",
+    "district": "Asalla",
+    "latitude": 7.730689968,
+    "longitude": 40.00101465,
+    "city": "Oromia",
+    "phone_number": "0225137501",
+    "type": "Branch",
+    "city": "Bale Gesgar"
+  },
+  {
+    "branch_name": "Begi",
+    "district": "Nekemte",
+    "latitude": 9.340342,
+    "longitude": 34.524914,
+    "city": "Oromia",
+    "phone_number": "0576410609",
+    "type": "Branch",
+    "city": "Begi"
+  },
+  {
+    "branch_name": "Bakar Ware",
+    "district": "Dire Dawa",
+    "latitude": 9.3089524,
+    "longitude": 42.131303,
+    "city": "Harari",
+    "phone_number": "0256656670",
+    "type": "Branch",
+    "city": "Harari"
+  },
+  {
+    "branch_name": "Bila",
+    "district": "Nekemte",
+    "latitude": 9.365451,
+    "longitude": 35.595243,
+    "city": "Oromia",
+    "phone_number": "0576410609",
+    "type": "Branch",
+    "city": "Bila"
+  },
+  {
+    "branch_name": "Boku Migra Bake",
+    "district": "West Finfinne",
+    "latitude": 9.186244,
+    "longitude": 37.945434,
+    "city": "Oromia",
+    "phone_number": "0112620651",
+    "type": "Branch",
+    "city": "Elfata"
+  },
+  {
+    "branch_name": "Boru Bilo",
+    "district": "East Finfinne",
+    "latitude": 9.0116552,
+    "longitude": 38.7975838,
+    "city": "Addis Ababa",
+    "phone_number": "0116687851",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Boru Joka",
+    "district": "West Finfinne",
+    "latitude": 8.995878,
+    "longitude": 38.684316,
+    "city": "Addis Ababa",
+    "phone_number": "0113695111",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Bulbula",
+    "district": "Shashamane",
+    "latitude": 7.718861,
+    "longitude": 38.651777,
+    "city": "Oromia",
+    "phone_number": "0224790496",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Buludo",
+    "district": "West Finfinne",
+    "latitude": 8.986437,
+    "longitude": 37.852695,
+    "city": "Oromia",
+    "phone_number": "0112602429",
+    "type": "Branch",
+    "city": "Ambo"
+  },
+  {
+    "branch_name": "Bure Ilu",
+    "district": "Jimma",
+    "latitude": 8.28608,
+    "longitude": 35.098371,
+    "city": "Oromia",
+    "phone_number": "0477790348",
+    "type": "Branch",
+    "city": "Bure"
+  },
+  {
+    "branch_name": "Burqa Shobbe",
+    "district": "East Finfinne",
+    "latitude": 9.0107605,
+    "longitude": 38.8832907,
+    "city": "Addis Ababa",
+    "phone_number": "0116679320",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Catherine Hamlin",
+    "district": "Central Finfinne",
+    "latitude": 8.9864167,
+    "longitude": 38.7685455,
+    "city": "Addis Ababa",
+    "phone_number": "0114702588",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Chachu",
+    "district": "Central Finfinne",
+    "latitude": 9.039128,
+    "longitude": 38.7550838,
+    "city": "Addis Ababa",
+    "phone_number": "0112732411",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Chafe Muda",
+    "district": "Central Finfinne",
+    "latitude": 9.0109439,
+    "longitude": 38.733945,
+    "city": "Addis Ababa",
+    "phone_number": "0115576060",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Chalalaqi",
+    "district": "Nekemte",
+    "latitude": 9.089496,
+    "longitude": 36.554812,
+    "city": "Oromia",
+    "phone_number": "0576606322",
+    "type": "Branch",
+    "city": "Nekemte"
+  },
+  {
+    "branch_name": "Chanqa Birbir",
+    "district": "Nekemte",
+    "latitude": 8.862032,
+    "longitude": 35.072059,
+    "city": "Oromia",
+    "phone_number": "0572210045",
+    "type": "Branch",
+    "city": "Chanqa Birbir"
+  },
+  {
+    "branch_name": "Chawaqa",
+    "district": "Nekemte",
+    "latitude": 8.912814,
+    "longitude": 36.154695,
+    "city": "Oromia",
+    "phone_number": "0572210045",
+    "type": "Branch",
+    "city": "Illu Arar"
+  },
+  {
+    "branch_name": "Chole",
+    "district": "Asalla",
+    "latitude": 8.138121542,
+    "longitude": 39.90214457,
+    "city": "Oromia",
+    "phone_number": "0224540089",
+    "type": "Branch",
+    "city": "Chole"
+  },
+  {
+    "branch_name": "Col Alemu Qixxeessa",
+    "district": "East Finfinne",
+    "latitude": 9.0219561,
+    "longitude": 38.8822189,
+    "city": "Addis Ababa",
+    "phone_number": "0116145350",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Dalatti",
+    "district": "Central Finfinne",
+    "latitude": 9.0338523,
+    "longitude": 38.7611319,
+    "city": "Addis Ababa",
+    "phone_number": "0111129392",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Dambi Dollo",
+    "district": "Nekemte",
+    "latitude": 8.535107,
+    "longitude": 34.801991,
+    "city": "Oromia",
+    "phone_number": "0575550785",
+    "type": "Branch",
+    "city": "Dambi Dollo"
+  },
+  {
+    "branch_name": "Damboya",
+    "district": "Hosana",
+    "latitude": "7.3431350",
+    "longitude": 37.949967,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0462450226",
+    "type": "Branch",
+    "city": "Damboya"
+  },
+  {
+    "branch_name": "Darge",
+    "district": "Hosana",
+    "latitude": 8.419764,
+    "longitude": 37.52053,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0464320647",
+    "type": "Branch",
+    "city": "Abeshge"
+  },
+  {
+    "branch_name": "Dawuro",
+    "district": "Hosana",
+    "latitude": 7.15074,
+    "longitude": 37.169818,
+    "city": "South West Ethiopia Peoples'",
+    "phone_number": "0463450800",
+    "type": "Branch",
+    "city": "Dawuro"
+  },
+  {
+    "branch_name": "Dire Dawa Free Trade",
+    "district": "Dire Dawa",
+    "latitude": 9.3706878,
+    "longitude": 42.1070423,
+    "city": "Dire Dawa",
+    "phone_number": "0252402004",
+    "type": "Branch",
+    "city": "Dire Dawa"
+  },
+  {
+    "branch_name": "Dire Jitu",
+    "district": "Adama",
+    "latitude": 8.763061,
+    "longitude": 38.941153,
+    "city": "Oromia",
+    "phone_number": "0114333313",
+    "type": "Branch",
+    "city": "Adama"
+  },
+  {
+    "branch_name": "Djibruk",
+    "district": "Mekele Relationship Office",
+    "latitude": 13.4903712,
+    "longitude": 39.4690698,
+    "city": "Tigray",
+    "phone_number": "0342415287",
+    "type": "Branch",
+    "city": "Mekele"
+  },
+  {
+    "branch_name": "Edao Boru",
+    "district": "Central Finfinne",
+    "latitude": 9.0299835,
+    "longitude": 38.7216179,
+    "city": "Addis Ababa",
+    "phone_number": "0112131300",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Enkodo",
+    "district": "Mekele Relationship Office",
+    "latitude": 13.497578,
+    "longitude": 39.469394,
+    "city": "Tigray",
+    "phone_number": "0342409300",
+    "type": "Branch",
+    "city": "Mekele"
+  },
+  {
+    "branch_name": "Enseno",
+    "district": "Hosana",
+    "latitude": 8.065001,
+    "longitude": 38.473408,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0463211207",
+    "type": "Branch",
+    "city": "Enseno"
+  },
+  {
+    "branch_name": "Fincha'a",
+    "district": "Nekemte",
+    "latitude": 9.570842,
+    "longitude": 37.362633,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Fincha'a"
+  },
+  {
+    "branch_name": "Fitala",
+    "district": "North Finfinne",
+    "latitude": 9.057901,
+    "longitude": 38.712216,
+    "city": "Addis Ababa",
+    "phone_number": "0112731626",
+    "type": "Branch",
+    "city": "Addis  Ababa"
+  },
+  {
+    "branch_name": "Gachana",
+    "district": "North Finfinne",
+    "latitude": 9.020653,
+    "longitude": 38.803835,
+    "city": "Addis Abeba ",
+    "phone_number": "0111267321",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Gadisa Biru",
+    "district": "East Finfinne",
+    "latitude": 8.951964,
+    "longitude": 38.7878923,
+    "city": "Addis Ababa",
+    "phone_number": "0114628862",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Ganji",
+    "district": "Nekemte",
+    "latitude": 9.038544,
+    "longitude": 35.621932,
+    "city": "Oromia",
+    "phone_number": "0575550785",
+    "type": "Branch",
+    "city": "Ganji"
+  },
+  {
+    "branch_name": "Gara Bushu",
+    "district": "East Finfinne",
+    "latitude": 8.8374112,
+    "longitude": 38.8321112,
+    "city": "Oromia",
+    "phone_number": "0114701303",
+    "type": "Branch",
+    "city": "Galan"
+  },
+  {
+    "branch_name": "Gara Duba",
+    "district": "East Finfinne",
+    "latitude": 8.8657306,
+    "longitude": 38.7989396,
+    "city": "Addis Ababa",
+    "phone_number": "0114628862",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Gara Muleta",
+    "district": "Dire Dawa",
+    "latitude": 9.1369243,
+    "longitude": 41.8362919,
+    "city": "Oromia",
+    "phone_number": "0253340530",
+    "type": "Branch",
+    "city": "Grawa"
+  },
+  {
+    "branch_name": "Garba Guracha",
+    "district": "North Finfinne",
+    "latitude": 9.807423,
+    "longitude": 38.416101,
+    "city": "Oromia",
+    "phone_number": "0111312347",
+    "type": "Branch",
+    "city": "Garba Guracha"
+  },
+  {
+    "BranchCode": "ET0010532",
+    "branch_name": "Gedeb",
+    "type": "Branch",
+    "city": "Gedeb near taiwan market center on main road,Gedeb,South Ethiopia cityal State",
+    "phone_number": "0462680490",
+    "latitude": 5.9174749,
+    "longitude": 38.2487099,
+    "district": "Hawassa"
+  },
+  {
+    "branch_name": "Gesupa",
+    "district": "Hosana",
+    "latitude": 6.726271,
+    "longitude": 37.557192,
+    "city": "South Ethiopia cityal State",
+    "phone_number": "0464690626",
+    "type": "Branch",
+    "city": "Gesupa"
+  },
+  {
+    "branch_name": "Gida Ayana",
+    "district": "Nekemte",
+    "latitude": 9.876838,
+    "longitude": 36.621852,
+    "city": "Oromia",
+    "phone_number": "0577300066",
+    "type": "Branch",
+    "city": "Gida Ayana"
+  },
+  {
+    "branch_name": "Gimbi",
+    "district": "Nekemte",
+    "latitude": 9.171472,
+    "longitude": 35.8346,
+    "city": "Oromia",
+    "phone_number": "0577800507",
+    "type": "Branch",
+    "city": "Gimbi"
+  },
+  {
+    "branch_name": "Godena Selam",
+    "district": "Mekele Relationship Office",
+    "latitude": 13.4919767,
+    "longitude": 39.4733942,
+    "city": "Tigray",
+    "phone_number": "0342405733",
+    "type": "Branch",
+    "city": "Kedemay Woyane"
+  },
+  {
+    "BranchCode": "ET0010740",
+    "branch_name": "Golbo",
+    "type": "Branch",
+    "city": "N/S Lafto Woreda 05,Addis Ababa,Addis Ababa",
+    "phone_number": "0114704060",
+    "latitude": 8.9777998,
+    "longitude": 38.7464293,
+    "district": "South FInfinne"
+  },
+  {
+    "branch_name": "Gora",
+    "district": "North Finfinne",
+    "latitude": 9.010907,
+    "longitude": 38.878541,
+    "city": "Addis Abeba ",
+    "phone_number": "0116860964",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Gudetu Arjo",
+    "district": "Nekemte",
+    "latitude": 9.0415572,
+    "longitude": 36.2503588,
+    "city": "Oromia",
+    "phone_number": "0571160513",
+    "type": "Branch",
+    "city": "Diga"
+  },
+  {
+    "branch_name": "Guje",
+    "district": "West Finfinne",
+    "latitude": 9.04226,
+    "longitude": 38.621456,
+    "city": "Oromia",
+    "phone_number": "0112601255",
+    "type": "Branch",
+    "city": "Guje"
+  },
+  {
+    "branch_name": "Guliso",
+    "district": "Nekemte",
+    "latitude": 9.161453,
+    "longitude": 35.472677,
+    "city": "Oromia",
+    "phone_number": "0576630434",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Hara Kello",
+    "district": "Hosana",
+    "latitude": 5.5520835,
+    "longitude": 39.3938623,
+    "city": "South Ethiopia cityal State",
+    "phone_number": "0462610455",
+    "type": "Branch",
+    "city": "Chiko"
+  },
+  {
+    "branch_name": "Harana Buluq",
+    "district": "Bale",
+    "latitude": 6.408806,
+    "longitude": 39.589749,
+    "city": "Oromia",
+    "phone_number": "0226680599",
+    "type": "Branch",
+    "city": "Angetu"
+  },
+  {
+    "branch_name": "Harato",
+    "district": "Nekemte",
+    "latitude": 9.367392,
+    "longitude": 37.118695,
+    "city": "Oromia",
+    "phone_number": "0574456146",
+    "type": "Branch",
+    "city": "Harato"
+  },
+  {
+    "branch_name": "Hawa Gelan",
+    "district": "Nekemte",
+    "latitude": 8.687224,
+    "longitude": 34.879142,
+    "city": "Oromia",
+    "phone_number": "0571180612",
+    "type": "Branch",
+    "city": "Gaba Robi"
+  },
+  {
+    "branch_name": "Haya Dima",
+    "district": "Hawassa",
+    "latitude": 7.068745,
+    "longitude": 38.49773829,
+    "city": "Sidama",
+    "phone_number": "0462121348",
+    "type": "Branch",
+    "city": "Hawassa"
+  },
+  {
+    "branch_name": "Heraro",
+    "district": "Shashamane",
+    "latitude": 6.997412,
+    "longitude": 39.312863,
+    "city": "Oromia",
+    "phone_number": "0226690329",
+    "type": "Branch",
+    "city": "Heraro"
+  },
+  {
+    "branch_name": "Homecho",
+    "district": "Hosana",
+    "latitude": 7.14995,
+    "longitude": 37.66096,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0462510449",
+    "type": "Branch",
+    "city": "Homecho"
+  },
+  {
+    "branch_name": "Hurumu",
+    "district": "Jimma",
+    "latitude": 8.335179,
+    "longitude": 35.691712,
+    "city": "Oromia",
+    "phone_number": "0474460470",
+    "type": "Branch",
+    "city": "Hurumu"
+  },
+  {
+    "branch_name": "Huruta",
+    "district": "Asalla",
+    "latitude": 8.147515,
+    "longitude": 39.351703,
+    "city": "Oromia",
+    "phone_number": "0223340066",
+    "type": "Branch",
+    "city": "Huruta"
+  },
+  {
+    "branch_name": "Ilanso Hallo",
+    "district": "South Finfinne",
+    "latitude": 8.544702,
+    "longitude": 37.975692,
+    "city": "Oromia",
+    "phone_number": "0113664633",
+    "type": "Branch",
+    "city": "Woliso"
+  },
+  {
+    "branch_name": "Jaldu",
+    "district": "West Finfinne",
+    "latitude": 9.26528,
+    "longitude": 38.082681,
+    "city": "Oromia",
+    "phone_number": "0112380604",
+    "type": "Branch",
+    "city": "Jaldu"
+  },
+  {
+    "branch_name": "Jimma Arjo",
+    "district": "Nekemte",
+    "latitude": 8.75527,
+    "longitude": 36.498298,
+    "city": "Oromia",
+    "phone_number": "0576670525",
+    "type": "Branch",
+    "city": "Jimma Arjo"
+  },
+  {
+    "branch_name": "Jimma Sanbate",
+    "district": "Central Finfinne",
+    "latitude": 8.994987,
+    "longitude": 38.775939,
+    "city": "Addis Ababa",
+    "phone_number": "0115574404",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Kali",
+    "district": "Dire Dawa",
+    "latitude": 9.3519285,
+    "longitude": 42.7770475,
+    "city": "Somalia",
+    "phone_number": "0252786137",
+    "type": "Branch",
+    "city": "Jigjiga"
+  },
+  {
+    "branch_name": "Kiltu Karra",
+    "district": "Nekemte",
+    "latitude": 9.691235,
+    "longitude": 35.261613,
+    "city": "Oromia",
+    "phone_number": "0572260541",
+    "type": "Branch",
+    "city": "Kiltu Karra"
+  },
+  {
+    "branch_name": "Kiramu",
+    "district": "Nekemte",
+    "latitude": 9.957847,
+    "longitude": 36.866235,
+    "city": "Oromia",
+    "phone_number": "0578926022",
+    "type": "Branch",
+    "city": "Kiramu"
+  },
+  {
+    "branch_name": "Kofale",
+    "district": "Shashamane",
+    "latitude": 7.078107,
+    "longitude": 38.785728,
+    "city": "Oromia",
+    "phone_number": "0461120301",
+    "type": "Branch",
+    "city": "Kofale"
+  },
+  {
+    "branch_name": "Komto",
+    "district": "Nekemte",
+    "latitude": 9.087093,
+    "longitude": 36.582219,
+    "city": "Oromia",
+    "phone_number": "0576608026",
+    "type": "Branch",
+    "city": "Nekemte"
+  },
+  {
+    "branch_name": "Konno",
+    "district": "North Finfinne",
+    "latitude": 9.016452,
+    "longitude": 38.787113,
+    "city": "Addis Abeba ",
+    "phone_number": "0111267321",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Koshe Mareko",
+    "district": "Hosana",
+    "latitude": 8.015169,
+    "longitude": 38.531997,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0464650486",
+    "type": "Branch",
+    "city": "Mareko"
+  },
+  {
+    "branch_name": "Koticha",
+    "district": "East Finfinne",
+    "latitude": 9.0069381,
+    "longitude": 38.8195011,
+    "city": "Addis Ababa",
+    "phone_number": "0116681426",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Kula",
+    "district": "Asalla",
+    "latitude": 7.972023215,
+    "longitude": 39.69131229,
+    "city": "Oromia",
+    "phone_number": "0223340066",
+    "type": "Branch",
+    "city": "Kula"
+  },
+  {
+    "branch_name": "Laga Jajja",
+    "district": "South Finfinne",
+    "latitude": 8.966235,
+    "longitude": 38.748927,
+    "city": "Addis  Ababa",
+    "phone_number": "0114709913",
+    "type": "Branch",
+    "city": "Addis  Ababa"
+  },
+  {
+    "branch_name": "Lauret Tsegaye",
+    "district": "East Finfinne",
+    "latitude": 8.9241354,
+    "longitude": 38.7642991,
+    "city": "Addis Ababa",
+    "phone_number": "0114626988",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Laga Jidha",
+    "district": "North Finfinne",
+    "latitude": 9.036031,
+    "longitude": 38.84145,
+    "city": "Addis Abeba ",
+    "phone_number": "0118683832",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Limu Seqqa",
+    "district": "Jimma",
+    "latitude": 8.302942,
+    "longitude": 36.947552,
+    "city": "Oromia",
+    "phone_number": "0474620439",
+    "type": "Branch",
+    "city": "Saqqaa"
+  },
+  {
+    "branch_name": "Lugo",
+    "district": "Adama",
+    "latitude": 8.539074,
+    "longitude": 39.267906,
+    "city": "Oromia",
+    "phone_number": "0222111848",
+    "type": "Branch",
+    "city": "Filtu"
+  },
+  {
+    "branch_name": "Madha Galma",
+    "district": "Hawassa",
+    "latitude": 4.884399,
+    "longitude": 38.140406,
+    "city": "Oromia",
+    "phone_number": "0463268483",
+    "type": "Branch",
+    "city": "Yabelo"
+  },
+  {
+    "branch_name": "Malka Shane",
+    "district": "East Finfinne",
+    "latitude": 8.8867597,
+    "longitude": 38.7825815,
+    "city": "Addis Ababa",
+    "phone_number": "0114629065",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Mandi",
+    "district": "Nekemte",
+    "latitude": 9.795448,
+    "longitude": 35.104519,
+    "city": "Oromia",
+    "phone_number": "0577760236",
+    "type": "Branch",
+    "city": "Mandi"
+  },
+  {
+    "branch_name": "Machaf Tulama",
+    "district": "Central Finfinne",
+    "latitude": 9.011521,
+    "longitude": 38.741121,
+    "city": "Addis Ababa",
+    "phone_number": "0115589652",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Mekele",
+    "district": "Mekele Relationship Office",
+    "latitude": 13.4950293,
+    "longitude": 39.4699768,
+    "city": "Tigray",
+    "phone_number": "0344408342",
+    "type": "Branch",
+    "city": "Mekele"
+  },
+  {
+    "branch_name": "Melka Oboshe",
+    "district": "Central Finfinne",
+    "latitude": 9.008385,
+    "longitude": 38.770437,
+    "city": "Addis Ababa",
+    "phone_number": "0115587260",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Melka Oda",
+    "district": "Shashamane",
+    "latitude": 7.2104791,
+    "longitude": 38.6150122,
+    "city": "Oromia",
+    "phone_number": "0462111700",
+    "type": "Branch",
+    "city": "Shashamane"
+  },
+  {
+    "branch_name": "Meraro",
+    "district": "Asalla",
+    "latitude": 7.406533,
+    "longitude": 39.243962,
+    "city": "Oromia",
+    "phone_number": "0224670377",
+    "type": "Branch",
+    "city": "Lemmo and Bilbiloo"
+  },
+  {
+    "branch_name": "Mogle",
+    "district": "South Finfinne",
+    "latitude": "8.895813",
+    "longitude": 38.583319,
+    "city": "Oromia",
+    "phone_number": "0113818127",
+    "type": "Branch",
+    "city": "Sabata"
+  },
+  {
+    "branch_name": "Nedjo",
+    "district": "Nekemte",
+    "latitude": 9.50806,
+    "longitude": 35.499608,
+    "city": "Oromia",
+    "phone_number": "0577740414",
+    "type": "Branch",
+    "city": "Nedjo"
+  },
+  {
+    "branch_name": "Nunu Kumba",
+    "district": "Nekemte",
+    "latitude": 9.50806,
+    "longitude": 35.499608,
+    "city": "Oromia",
+    "phone_number": "0577740414",
+    "type": "Branch",
+    "city": "Nunu Kumba"
+  },
+  {
+    "branch_name": "Odo Shakiso",
+    "district": "Hawassa",
+    "latitude": 5.771329,
+    "longitude": 38.904982,
+    "city": "Oromia",
+    "phone_number": "0463340453",
+    "type": "Branch",
+    "city": "Shakiso"
+  },
+  {
+    "branch_name": "Ogolcho",
+    "district": "Asalla",
+    "latitude": 8.04722,
+    "longitude": 39.00823,
+    "city": "Oromia",
+    "phone_number": "0224750360",
+    "type": "Branch",
+    "city": "Ogolcho"
+  },
+  {
+    "branch_name": "Oliqa Dingil",
+    "district": "Nekemte",
+    "latitude": 8.531772,
+    "longitude": 34.799206,
+    "city": "Oromia",
+    "phone_number": "0575553361",
+    "type": "Branch",
+    "city": "Dambi Dollo"
+  },
+  {
+    "branch_name": "Qarcha",
+    "district": "Hawassa",
+    "latitude": 5.780817,
+    "longitude": 38.405273,
+    "city": "Oromia",
+    "phone_number": "0463242005",
+    "type": "Branch",
+    "city": "Qarcha"
+  },
+  {
+    "branch_name": "Qore",
+    "district": "Shashamane",
+    "latitude": 7.219856,
+    "longitude": 38.928616,
+    "city": "Oromia",
+    "phone_number": "0462460171",
+    "type": "Branch",
+    "city": "Qore"
+  },
+  {
+    "branch_name": "Raso",
+    "district": "North Finfinne",
+    "latitude": 9.053169,
+    "longitude": 38.750712,
+    "city": "Addis Abeba ",
+    "phone_number": "0111560223",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Roge",
+    "district": "South Finfinne",
+    "latitude": 8.912866,
+    "longitude": 38.628882,
+    "city": "Oromia",
+    "phone_number": "0113666341",
+    "type": "Branch",
+    "city": "Sabata"
+  },
+  {
+    "branch_name": "Sagure",
+    "district": "Asalla",
+    "latitude": 7.748638,
+    "longitude": 39.150411,
+    "city": "Oromia",
+    "phone_number": "0223380635",
+    "type": "Branch",
+    "city": "Sagure"
+  },
+  {
+    "branch_name": "Sechduna",
+    "district": "Hosana",
+    "latitude": 7.544014,
+    "longitude": 37.852474,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0461785682",
+    "type": "Branch",
+    "city": "Hosanna"
+  },
+  {
+    "branch_name": "Shambu",
+    "district": "Nekemte",
+    "latitude": 9.567758,
+    "longitude": 37.101466,
+    "city": "Oromia",
+    "phone_number": "0576660617",
+    "type": "Branch",
+    "city": "Shambu"
+  },
+  {
+    "branch_name": "Sheik Bakri Saphalo",
+    "district": "Dire Dawa",
+    "latitude": 9.4234262,
+    "longitude": 42.1181344,
+    "city": "Oromia",
+    "phone_number": "0253380801",
+    "type": "Branch",
+    "city": "Kombolcha"
+  },
+  {
+    "branch_name": "Shire",
+    "district": "Mekele Relationship Office",
+    "latitude": 14.101029,
+    "longitude": 38.282815,
+    "city": "Tigray",
+    "phone_number": "0342440003",
+    "type": "Branch",
+    "city": "Shire"
+  },
+  {
+    "branch_name": "Shonkola",
+    "district": "Hosana",
+    "latitude": 7.448121,
+    "longitude": 37.626978,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0467720790",
+    "type": "Branch",
+    "city": "Hossana"
+  },
+  {
+    "branch_name": "Sibu Sire",
+    "district": "Nekemte",
+    "latitude": 9.039987,
+    "longitude": 36.86994,
+    "city": "Oromia",
+    "phone_number": "0576680916",
+    "type": "Branch",
+    "city": "Sibu Sire"
+  },
+  {
+    "branch_name": "Taltale",
+    "district": "Hawassa",
+    "latitude": 5.065005,
+    "longitude": 37.388568,
+    "city": "Oromia",
+    "phone_number": "0468931205",
+    "type": "Branch",
+    "city": "Taltalle"
+  },
+  {
+    "branch_name": "Togo Wuchale",
+    "district": "Dire Dawa",
+    "latitude": 9.5988626,
+    "longitude": 43.3308268,
+    "city": "Somalia",
+    "phone_number": "0258820037",
+    "type": "Branch",
+    "city": "Togo Wuchale"
+  },
+  {
+    "branch_name": "Tunto Eco Branch",
+    "district": "Hosana",
+    "latitude": 7.209938,
+    "longitude": 37.634749,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0462510449",
+    "type": "Branch",
+    "city": "Tunto"
+  },
+  {
+    "branch_name": "Uraga",
+    "district": "Hawassa",
+    "latitude": 5.7799147,
+    "longitude": 39.308274,
+    "city": "Oromia",
+    "phone_number": "0462430416",
+    "type": "Branch",
+    "city": "Haro Wachu"
+  },
+  {
+    "branch_name": "Wasanu Dido",
+    "district": "South Finfinne",
+    "latitude": 8.986897,
+    "longitude": 38.721385,
+    "city": "Addis Ababa",
+    "phone_number": "0114713469",
+    "type": "Branch",
+    "city": "Addis  Ababa"
+  },
+  {
+    "branch_name": "Wato",
+    "district": "South Finfinne",
+    "latitude": 8.929372,
+    "longitude": 38.711735,
+    "city": "Oromia",
+    "phone_number": "0113695750",
+    "type": "Branch",
+    "city": "Sabata"
+  },
+  {
+    "branch_name": "Weltea",
+    "district": "Dire Dawa",
+    "latitude": 9.4052056,
+    "longitude": 41.973337,
+    "city": "Oromia",
+    "phone_number": "0266593440",
+    "type": "Branch",
+    "city": "Maya"
+  },
+  {
+    "branch_name": "Xicho",
+    "district": "Asalla",
+    "latitude": 7.809914674,
+    "longitude": 39.51639156,
+    "city": "Oromia",
+    "phone_number": "0224440539",
+    "type": "Branch",
+    "city": "Ticho"
+  },
+  {
+    "BranchCode": "ET0010739",
+    "branch_name": "Yai Malka",
+    "type": "Branch",
+    "city": "06 woreda infornt of East West Aderash,Addis Ababa Nina's Silk Lafto mebirat hail area infornt of East west Aderash,Addis Ababa",
+    "phone_number": "0114705291",
+    "latitude": 8.9694707,
+    "longitude": 38.7487431,
+    "district": "South FInfinne"
+  },
+  {
+    "branch_name": "Yuba",
+    "district": "East Finfinne",
+    "latitude": 9.0214193,
+    "longitude": 38.8355028,
+    "city": "Addis Ababa",
+    "phone_number": "0116734045",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Zerihun Wadajo",
+    "district": "North Finfinne",
+    "latitude": 9.021392,
+    "longitude": 38.849887,
+    "city": "Addis Ababa ",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Ali Bira",
+    "district": "South Finfinne",
+    "latitude": 8.949,
+    "longitude": "38.723305",
+    "city": "Addis Ababa ",
+    "phone_number": "0114623073",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Ertu",
+    "district": "South Finfinne",
+    "latitude": 8.958397,
+    "longitude": "38.7057060",
+    "city": "Addis Ababa ",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "BranchCode": "ET010647",
+    "branch_name": "Gara Dhanqu",
+    "type": "Branch",
+    "city": "furi railway ,sheger furi railway station ,Oromia",
+    "phone_number": "",
+    "latitude": 8.936936936936936,
+    "longitude": 38.68586559747004,
+    "district": "South FInfinne"
+  },
+  {
+    "branch_name": "Gudattu Qarsa Eco Branch",
+    "district": "South Finfinne",
+    "latitude": 8.863011,
+    "longitude": "38.1667060",
+    "city": "Addis Ababa ",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Koromi",
+    "district": "South Finfinne",
+    "latitude": 8.959153,
+    "longitude": "38.711735",
+    "city": "Addis Ababa ",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Melka Hurbu",
+    "district": "South Finfinne",
+    "latitude": 8.950852,
+    "longitude": "38.676453",
+    "city": "Addis Ababa ",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Raphe",
+    "district": "South Finfinne",
+    "latitude": 8.959313,
+    "longitude": "38.689185",
+    "city": "Addis Ababa ",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Soddo Garbo Eco",
+    "district": "South Finfinne",
+    "latitude": 8.492622,
+    "longitude": "38.1449210",
+    "city": "Addis Ababa ",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Tulu Dhertu",
+    "district": "South Finfinne",
+    "latitude": 8.979258,
+    "longitude": "38.749169",
+    "city": "Addis Ababa ",
+    "phone_number": "0114629441",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Urji",
+    "district": "South Finfinne",
+    "latitude": 8.935237,
+    "longitude": "38.7261910",
+    "city": "Addis Ababa ",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Anfillo",
+    "district": "Nekemte",
+    "latitude": 8.571265,
+    "longitude": "34.603060",
+    "city": "Oromia",
+    "phone_number": "0576390653",
+    "type": "Branch",
+    "city": "Mugi"
+  },
+  {
+    "branch_name": "Kara Mexi",
+    "district": "North Finfinne",
+    "latitude": 9.10116,
+    "longitude": "38.711262",
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Tokkumma",
+    "district": "North Finfinne",
+    "latitude": 9.017029,
+    "longitude": "38.781917",
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Tulu Fati",
+    "district": "North Finfinne",
+    "latitude": 9.144151,
+    "longitude": "38.753583",
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Sululta"
+  },
+  {
+    "branch_name": "Ardaita Eco",
+    "district": "Shashamane",
+    "latitude": 7.090634,
+    "longitude": "39.060972",
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Ardaita "
+  },
+  {
+    "branch_name": "Birbirsa Qaraxa",
+    "district": "Shashamane",
+    "latitude": 7.196036,
+    "longitude": "38.618580",
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Shashamane"
+  },
+  {
+    "branch_name": "Dida Boqe",
+    "district": "Shashamane",
+    "latitude": 7.179345,
+    "longitude": "38.593542",
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Shashamane"
+  },
+  {
+    "BranchCode": "ET0010099",
+    "branch_name": "Dodola",
+    "type": "Branch",
+    "city": "Anole,Dodola,Oromia",
+    "phone_number": "0226660300",
+    "latitude": 6.9773082,
+    "longitude": 39.1795381,
+    "district": "Shashemene"
+  },
+  {
+    "branch_name": "Meja Demma",
+    "district": "Shashamane",
+    "latitude": 7.2006,
+    "longitude": "38.591280",
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Shashamane"
+  },
+  {
+    "branch_name": "Adwa",
+    "district": "Mekele Relationship Office",
+    "latitude": 14.1637223,
+    "longitude": " 38.8945633",
+    "city": "Tigray",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Adwa"
+  },
+  {
+    "branch_name": "Chelelektu",
+    "district": "Hawassa",
+    "latitude": 5.941073,
+    "longitude": "38.1595972",
+    "city": "South Ethiopia cityal State",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Chelelekitu"
+  },
+  {
+    "branch_name": "Chuko",
+    "district": "Hawassa",
+    "latitude": 6.5893731,
+    "longitude": "38.3380738",
+    "city": "Sidama",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Chuko"
+  },
+  {
+    "branch_name": "Ijo",
+    "district": "East Finfinne",
+    "latitude": 8.9919669,
+    "longitude": "38.7802651",
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Koye Fache",
+    "district": "East Finfinne",
+    "latitude": 8.8944626,
+    "longitude": "38.8305565",
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Koye Fache"
+  },
+  {
+    "branch_name": "Lama Guya",
+    "district": "East Finfinne",
+    "latitude": 9.004698,
+    "longitude": "38.8123451",
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Mari Luqe",
+    "district": "East Finfinne",
+    "latitude": 9.0195769,
+    "longitude": "38.8566718",
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Wami Biratu",
+    "district": "East Finfinne",
+    "latitude": 9.0055867,
+    "longitude": "38.7892039",
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Imam Ahmed Mesjid",
+    "district": "Dire Dawa",
+    "latitude": 9.312499,
+    "longitude": "42.1071710",
+    "city": "Harari",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Harar"
+  },
+  {
+    "branch_name": "Midhaga",
+    "district": "Dire Dawa",
+    "latitude": 8.871458,
+    "longitude": "42.1244570",
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Midhaga Tola"
+  },
+  {
+    "branch_name": "Finfinne",
+    "district": "Central Finfinne",
+    "latitude": 9.007564,
+    "longitude": 38.765418,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+
+  {
+    "branch_name": "Lisana ",
+    "district": "Hosana",
+    "latitude": 7.515959,
+    "longitude": 37.932587,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Lisana"
+  },
+  {
+    "branch_name": "Dambala Micro ",
+    "district": "Adama",
+    "latitude": 8.508139,
+    "longitude": 39.24435,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Adama"
+  },
+  {
+    "branch_name": "Digalu ",
+    "district": "Asalla",
+    "latitude": 7.771544,
+    "longitude": 39.254095,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Digalu"
+  },
+  {
+    "branch_name": "Dinsa Eco ",
+    "district": "Bale",
+    "latitude": 7.470467,
+    "longitude": 40.607563,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Dinsa"
+  },
+  {
+    "branch_name": "Dinsho ",
+    "district": "Bale",
+    "latitude": 7.099105,
+    "longitude": 39.782451,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Dinsho"
+  },
+  {
+    "branch_name": "Dire Eco ",
+    "district": "Adama",
+    "latitude": 8.692184,
+    "longitude": 38.894609,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Dire"
+  },
+  {
+    "BranchCode": "ET0010224",
+    "branch_name": "Dolomana",
+    "type": "Branch",
+    "city": "Dolomana,Robe,Oromia",
+    "phone_number": "+251226680599",
+    "latitude": 6.4136283,
+    "longitude": 39.8496306,
+    "district": "Bale"
+  },
+  {
+    "branch_name": "Dolosebro ",
+    "district": "Bale",
+    "latitude": 7.258676,
+    "longitude": 40.469803,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Dallo"
+  },
+  {
+    "branch_name": "Gebeyehu Gurmu ",
+    "district": "Central Finfinne",
+    "latitude": 9.0165626,
+    "longitude": 38.765705,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Godino Eco ",
+    "district": "Adama",
+    "latitude": 8.854196,
+    "longitude": 39.022158,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Godino"
+  },
+  {
+    "branch_name": "Golja ",
+    "district": "Asalla",
+    "latitude": 7.841896,
+    "longitude": 39.017329,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Golja"
+  },
+  {
+    "branch_name": "Habe ",
+    "district": "Asalla",
+    "latitude": 7.823389,
+    "longitude": 39.785583,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Habe"
+  },
+  {
+    "branch_name": "Hailamariam Gamada",
+    "district": "Central Finfinne",
+    "latitude": 9.0269591,
+    "longitude": 38.7400433,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Hardim Eco Branch",
+    "district": "Chiro",
+    "latitude": 8.8289989,
+    "longitude": 40.4196423,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Hardim"
+  },
+  {
+    "branch_name": "Konso ",
+    "district": "Hosana",
+    "latitude": 5.339331,
+    "longitude": 37.442271,
+    "city": "South Ethiopia cityal State",
+    "phone_number": "0467730763",
+    "type": "Branch",
+    "city": "Karati"
+  },
+  {
+    "branch_name": "Lole Bulchana Eco",
+    "district": "Asalla",
+    "latitude": 7.732458,
+    "longitude": 39.032079,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Bulchan"
+  },
+  {
+    "branch_name": "Maliyu ",
+    "district": "Bale",
+    "latitude": 7.02325,
+    "longitude": 40.35901,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Maliyu"
+  },
+  {
+    "branch_name": "Oda Roba Eco Branch",
+    "district": "Bale",
+    "latitude": 7.022459,
+    "longitude": 40.836534,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Dinki"
+  },
+  {
+    "branch_name": "Prof. Gebissa",
+    "district": "Central Finfinne",
+    "latitude": 9.013896,
+    "longitude": 38.753085,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Rayitu ",
+    "district": "Bale",
+    "latitude": 6.895903,
+    "longitude": 41.122987,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Rayitu"
+  },
+  {
+    "branch_name": "Samera Kolba Eco",
+    "district": "Asalla",
+    "latitude": 7.297903,
+    "longitude": 39.40775,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Samera Kolba"
+  },
+  {
+    "branch_name": "Wukro ",
+    "district": "Mekele Relationship Office",
+    "latitude": 13.78297,
+    "longitude": 39.601569,
+    "city": "Tigray",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Wukro"
+  },
+  {
+    "branch_name": "Yirgachafe ",
+    "district": "Hawassa",
+    "latitude": 6.16168,
+    "longitude": 38.2001,
+    "city": "South Ethiopia cityal State",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Yirgachafe"
+  },
+
+  {
+    "branch_name": "Adama",
+    "district": "Adama",
+    "latitude": 8.5483184,
+    "longitude": 39.2764864,
+    "city": "Oromia",
+    "phone_number": "0221117866/7868",
+    "type": "Branch",
+    "city": "Maqi"
+  },
+  {
+    "branch_name": "Adea",
+    "district": "Adama",
+    "latitude": 8.7574901,
+    "longitude": 38.94835,
+    "city": "Oromia",
+    "phone_number": "0114370583",
+    "type": "Branch",
+    "city": "Bishoftu"
+  },
+  {
+    "branch_name": "Awah 7 Kilo",
+    "district": "Adama",
+    "latitude": 8.9920944,
+    "longitude": 40.1686666,
+    "city": "Oromia",
+    "phone_number": "0222241549",
+    "type": "Branch",
+    "city": "Awash 7 killo"
+  },
+  {
+    "branch_name": "Awash Malkasa",
+    "district": "Adama",
+    "latitude": 8.4037302,
+    "longitude": 39.3363459,
+    "city": "Oromia",
+    "phone_number": "0222250295",
+    "type": "Branch",
+    "city": "Awash Malkasa"
+  },
+  {
+    "branch_name": "Barecha",
+    "district": "Adama",
+    "latitude": 8.5348781,
+    "longitude": 39.2763819,
+    "city": "Oromia",
+    "phone_number": "0222111789",
+    "type": "Branch",
+    "city": "E/shewa/adama"
+  },
+  {
+    "branch_name": "Badhatu",
+    "district": "Adama",
+    "latitude": 8.5469467,
+    "longitude": 39.2701528,
+    "city": "Oromia",
+    "phone_number": "0222113265",
+    "type": "Branch",
+    "city": "E/shewa/adama"
+  },
+  {
+    "branch_name": "Bilal",
+    "district": "Adama",
+    "latitude": 8.5475597,
+    "longitude": 39.2692143,
+    "city": "Oromia",
+    "phone_number": "0222113776",
+    "type": "Branch",
+    "city": "E/shewa/adama"
+  },
+  {
+    "branch_name": "Bishoftu",
+    "district": "Adama",
+    "latitude": 8.7479027,
+    "longitude": 38.9779664,
+    "city": "Oromia",
+    "phone_number": "0114306996",
+    "type": "Branch",
+    "city": "Bishoftu"
+  },
+  {
+    "branch_name": "Boku Shanan",
+    "district": "Adama",
+    "latitude": 8.5218825,
+    "longitude": 39.2756633,
+    "city": "Oromia",
+    "phone_number": "0221119076",
+    "type": "Branch",
+    "city": "E/shewa/ Adama"
+  },
+  {
+    "branch_name": "Bole Nura Hera",
+    "district": "Adama",
+    "latitude": 8.651821,
+    "longitude": 39.7528728,
+    "city": "Oromia",
+    "phone_number": "0224530047",
+    "type": "Branch",
+    "city": "Bole Nura Hera"
+  },
+  {
+    "branch_name": "Boset",
+    "district": "Adama",
+    "latitude": 8.6613791,
+    "longitude": 39.4322427,
+    "city": "Oromia",
+    "phone_number": "0221131340",
+    "type": "Branch",
+    "city": "Olonchiti"
+  },
+  {
+    "branch_name": "Bote",
+    "district": "Adama",
+    "latitude": 8.2948685,
+    "longitude": 38.9441384,
+    "city": "Oromia",
+    "phone_number": "0221150530",
+    "type": "Branch",
+    "city": "E/shewa/ Bote"
+  },
+  {
+    "branch_name": "Burqa",
+    "district": "Adama",
+    "latitude": 8.5084211,
+    "longitude": 39.2815122,
+    "city": "Oromia",
+    "phone_number": "0222111744",
+    "type": "Branch",
+    "city": "E/shewa/ Adama"
+  },
+  {
+    "branch_name": "Chafe",
+    "district": "Adama",
+    "latitude": 8.5484402,
+    "longitude": 39.2672408,
+    "city": "Oromia",
+    "phone_number": "0222122424",
+    "type": "Branch",
+    "city": "E/shewa/ Adama"
+  },
+  {
+    "branch_name": "Dabe Soloqe",
+    "district": "Adama",
+    "latitude": 8.5338531,
+    "longitude": 39.2825083,
+    "city": "Oromia",
+    "phone_number": "0222120621",
+    "type": "Branch",
+    "city": "E/shewa/ Adama"
+  },
+  {
+    "branch_name": "Dagaga",
+    "district": "Adama",
+    "latitude": 8.5399488,
+    "longitude": 39.2594654,
+    "city": "Oromia",
+    "phone_number": "0222117128",
+    "type": "Branch",
+    "city": "E/shewa/near Adama Ras hotel"
+  },
+  {
+    "branch_name": "Derartu tulu",
+    "district": "Adama",
+    "latitude": 8.5423181,
+    "longitude": 39.2688258,
+    "city": "Oromia",
+    "phone_number": "0222118159",
+    "type": "Branch",
+    "city": "Adama"
+  },
+  {
+    "branch_name": "Dhadacha Arara",
+    "district": "Adama",
+    "latitude": 8.5710188,
+    "longitude": 39.2854168,
+    "city": "Oromia",
+    "phone_number": "0222118159",
+    "type": "Branch",
+    "city": "Adama"
+  },
+  {
+    "branch_name": "Dhaka Adi",
+    "district": "Adama",
+    "latitude": 8.5485263,
+    "longitude": 39.2761935,
+    "city": "Oromia",
+    "phone_number": "0222118835",
+    "type": "Branch",
+    "city": "Adama"
+  },
+  {
+    "branch_name": "Elabela",
+    "district": "Adama",
+    "latitude": 8.7774668,
+    "longitude": 39.261413,
+    "city": "Oromia",
+    "phone_number": "0228164950",
+    "type": "Branch",
+    "city": "Ejere"
+  },
+  {
+    "branch_name": "Gara Beru",
+    "district": "Adama",
+    "latitude": 8.7462039,
+    "longitude": 38.9672759,
+    "city": "Oromia",
+    "phone_number": "0114307041",
+    "type": "Branch",
+    "city": "Bishoftu"
+  },
+  {
+    "branch_name": "Gandahara",
+    "district": "Adama",
+    "latitude": 8.5595289,
+    "longitude": 39.2632734,
+    "city": "Oromia",
+    "phone_number": "0222116441",
+    "type": "Branch",
+    "city": "E/shewa/ Adama"
+  },
+  {
+    "branch_name": "Gimbichu",
+    "district": "Adama",
+    "latitude": 8.9697446,
+    "longitude": 39.1264803,
+    "city": "Oromia",
+    "phone_number": "0224510089",
+    "type": "Branch",
+    "city": "E/shewa/Chafe Donsa"
+  },
+  {
+    "branch_name": "Gurmu",
+    "district": "Adama",
+    "latitude": 8.5458394,
+    "longitude": 39.2705011,
+    "city": "Oromia",
+    "phone_number": "0222111242",
+    "type": "Branch",
+    "city": "Adama"
+  },
+  {
+    "branch_name": "Haro Adi",
+    "district": "Adama",
+    "latitude": 8.8759081,
+    "longitude": 39.9162324,
+    "city": "Oromia",
+    "phone_number": "0222261170",
+    "type": "Branch",
+    "city": "E/shewa/ Adama"
+  },
+  {
+    "branch_name": "Hawas",
+    "district": "Adama",
+    "latitude": 8.5405517,
+    "longitude": 39.2651913,
+    "city": "Oromia",
+    "phone_number": "0221111985",
+    "type": "Branch",
+    "city": "Arsi zone/ Matahara"
+  },
+  {
+    "branch_name": "Hora Arsadi",
+    "district": "Adama",
+    "latitude": 8.7504323,
+    "longitude": 38.9673095,
+    "city": "Oromia",
+    "phone_number": "0114370033/34",
+    "type": "Branch",
+    "city": "Bishoftu"
+  },
+  {
+    "branch_name": "Karayu",
+    "district": "Adama",
+    "latitude": 8.9039126,
+    "longitude": 39.9175826,
+    "city": "Oromia",
+    "phone_number": "022226-1226",
+    "type": "Branch",
+    "city": "Matahara"
+  },
+  {
+    "branch_name": "Kilole",
+    "district": "Adama",
+    "latitude": 8.7491284,
+    "longitude": 38.9841738,
+    "city": "Oromia",
+    "phone_number": "0114300538",
+    "type": "Branch",
+    "city": "Bishoftu"
+  },
+  {
+    "branch_name": "Kiltu Lume",
+    "district": "Adama",
+    "latitude": 8.5893582,
+    "longitude": 39.1269211,
+    "city": "Oromia",
+    "phone_number": "0222362940",
+    "type": "Branch",
+    "city": "E/shewa/ Mojo"
+  },
+  {
+    "branch_name": "Koka",
+    "district": "Adama",
+    "latitude": 8.4398822,
+    "longitude": 39.0312351,
+    "city": "Oromia",
+    "phone_number": "0224590207",
+    "type": "Branch",
+    "city": "E/shewa/ Mojo"
+  },
+  {
+    "branch_name": "Liben Chukala",
+    "district": "Adama",
+    "latitude": 8.5396568,
+    "longitude": 38.9019252,
+    "city": "Oromia",
+    "phone_number": "0118489025",
+    "type": "Branch",
+    "city": "Liben Chukala"
+  },
+  {
+    "branch_name": "Maqi",
+    "district": "Adama",
+    "latitude": 8.1481884,
+    "longitude": 38.8187926,
+    "city": "Oromia",
+    "phone_number": "0221180048",
+    "type": "Branch",
+    "city": "E/shewa/Maqi"
+  },
+  {
+    "branch_name": "Mojo",
+    "district": "Adama",
+    "latitude": 8.6006262,
+    "longitude": 39.1225134,
+    "city": "Oromia",
+    "phone_number": "0221162256/0611",
+    "type": "Branch",
+    "city": "E/shewa/ Mojo"
+  },
+  {
+    "branch_name": "Qachama",
+    "district": "Adama",
+    "latitude": 8.5365295,
+    "longitude": 39.2542703,
+    "city": "Oromia",
+    "phone_number": "0222114900",
+    "type": "Branch",
+    "city": "E/shewa/ Adama"
+  },
+  {
+    "branch_name": "Qoche",
+    "district": "Adama",
+    "latitude": 8.5171573,
+    "longitude": 39.2995803,
+    "city": "Oromia",
+    "phone_number": "0222129099",
+    "type": "Branch",
+    "city": "Adama"
+  },
+  {
+    "branch_name": "Qurqura",
+    "district": "Adama",
+    "latitude": 8.5483284,
+    "longitude": 39.2763555,
+    "city": "Oromia",
+    "phone_number": "0222118495",
+    "type": "Branch",
+    "city": "Adama"
+  },
+  {
+    "branch_name": "Torban Garba",
+    "district": "Adama",
+    "latitude": 8.7425325,
+    "longitude": 38.9947938,
+    "city": "Oromia",
+    "phone_number": "0114304476",
+    "type": "Branch",
+    "city": "Bishoftu"
+  },
+  {
+    "branch_name": "Torban Obo",
+    "district": "Adama",
+    "latitude": 8.5429223,
+    "longitude": 39.2787826,
+    "city": "Oromia",
+    "phone_number": "0221117867/6166",
+    "type": "Branch",
+    "city": "E/shewa/ Adama"
+  },
+  {
+    "branch_name": "Wanji",
+    "district": "Adama",
+    "latitude": 8.4531421,
+    "longitude": 39.2213217,
+    "city": "Oromia",
+    "phone_number": "0222202711",
+    "type": "Branch",
+    "city": "Wanji"
+  },
+  {
+    "branch_name": "Abomsa",
+    "district": "Asalla",
+    "latitude": 8.4896382,
+    "longitude": 39.8285234,
+    "city": "Oromia",
+    "phone_number": "0224410122",
+    "type": "Branch",
+    "city": "Abomsa"
+  },
+  {
+    "branch_name": "Anole ",
+    "district": "Asalla",
+    "latitude": 8.1372862,
+    "longitude": 39.2345074,
+    "city": "Oromia",
+    "phone_number": "0223350931",
+    "type": "Branch",
+    "city": "Eteya"
+  },
+  {
+    "branch_name": "Asalla",
+    "district": "Asalla",
+    "latitude": 7.9568426,
+    "longitude": 39.1324044,
+    "city": "Oromia",
+    "phone_number": "0223315105/6064",
+    "type": "Branch",
+    "city": "Asalla"
+  },
+  {
+    "branch_name": "Bokoji",
+    "district": "Asalla",
+    "latitude": 7.52852,
+    "longitude": 39.248361,
+    "city": "Oromia",
+    "phone_number": "0223320148",
+    "type": "Branch",
+    "city": "Bokoji"
+  },
+  {
+    "branch_name": "Boru Jawi",
+    "district": "Asalla",
+    "latitude": 8.0465227,
+    "longitude": 39.2465183,
+    "city": "Oromia",
+    "phone_number": "0225120003",
+    "type": "Branch",
+    "city": "Boru Jawi"
+  },
+  {
+    "branch_name": "Chilalo",
+    "district": "Asalla",
+    "latitude": 8.5360626,
+    "longitude": 39.2540076,
+    "city": "Oromia",
+    "phone_number": "0222385454",
+    "type": "Branch",
+    "city": "Asalla"
+  },
+  {
+    "branch_name": "Diksis",
+    "district": "Asalla",
+    "latitude": 8.0604718,
+    "longitude": 39.5566682,
+    "city": "Oromia",
+    "phone_number": "0223390272",
+    "type": "Branch",
+    "city": "Diksis"
+  },
+  {
+    "branch_name": "Dodota",
+    "district": "Asalla",
+    "latitude": 8.3280079,
+    "longitude": 39.3207862,
+    "city": "Oromia",
+    "phone_number": "0223330924",
+    "type": "Branch",
+    "city": "Dhera"
+  },
+  {
+    "branch_name": "Ego",
+    "district": "Asalla",
+    "latitude": 7.6180465,
+    "longitude": 38.987878,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Asalla"
+  },
+  {
+    "branch_name": "Etaya",
+    "district": "Asalla",
+    "latitude": 8.1306377,
+    "longitude": 39.2329021,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Itaya"
+  },
+  {
+    "branch_name": "Gololcha",
+    "district": "Asalla",
+    "latitude": 8.2522039,
+    "longitude": 40.133349,
+    "city": "Oromia",
+    "phone_number": "0223350696/0440",
+    "type": "Branch",
+    "city": "Gololcha"
+  },
+  {
+    "branch_name": "Qarsa Arsi",
+    "district": "Asalla",
+    "latitude": 7.5292289,
+    "longitude": 38.9829763,
+    "city": "Oromia",
+    "phone_number": "0224750360",
+    "type": "Branch",
+    "city": "Qarsa Arsi"
+  },
+  {
+    "branch_name": "Negele Arbagugu",
+    "district": "Asalla",
+    "latitude": 8.2825982,
+    "longitude": 39.8526286,
+    "city": "Oromia",
+    "phone_number": "0224670377",
+    "type": "Branch",
+    "city": "Nagile Arba Gugu"
+  },
+  {
+    "branch_name": "Robe Dedea",
+    "district": "Asalla",
+    "latitude": 7.8650237,
+    "longitude": 39.6296779,
+    "city": "Oromia",
+    "phone_number": "0223370188",
+    "type": "Branch",
+    "city": "Arsi Robe"
+  },
+  {
+    "branch_name": "Salahadin Al-Ayub",
+    "district": "Asalla",
+    "latitude": 7.9547006,
+    "longitude": 39.1321509,
+    "city": "Oromia",
+    "phone_number": "0223380635",
+    "type": "Branch",
+    "city": "Asalla"
+  },
+  {
+    "branch_name": "Shirka",
+    "district": "Asalla",
+    "latitude": 7.6214069,
+    "longitude": 39.494433,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Gobessa"
+  },
+  {
+    "branch_name": "Siltana",
+    "district": "Asalla",
+    "latitude": 7.3944923,
+    "longitude": 39.3950047,
+    "city": "Oromia",
+    "phone_number": "0224460205",
+    "type": "Branch",
+    "city": "Siltana"
+  },
+  {
+    "branch_name": "Sire Arsi",
+    "district": "Asalla",
+    "latitude": 8.2771278,
+    "longitude": 39.4924015,
+    "city": "Oromia",
+    "phone_number": "0225130010",
+    "type": "Branch",
+    "city": "Sire Arsi"
+  },
+  {
+    "branch_name": "Tijo",
+    "district": "Asalla",
+    "latitude": 7.671879,
+    "longitude": 39.201334,
+    "city": "Oromia",
+    "phone_number": "0223300248",
+    "type": "Branch",
+    "city": "Tijo"
+  },
+  {
+    "branch_name": "Xiyo",
+    "district": "Asalla",
+    "latitude": 7.9567724,
+    "longitude": 39.1309421,
+    "city": "Oromia",
+    "phone_number": "0224440539",
+    "type": "Branch",
+    "city": "Asalla/gudina kebele"
+  },
+  {
+    "branch_name": "Bahir Dar",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 11.5878599,
+    "longitude": 37.387105,
+    "city": "Amhara",
+    "phone_number": "0582207661",
+    "type": "Branch",
+    "city": "Bahir Dar"
+  },
+  {
+    "branch_name": "Bure",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 10.7010021,
+    "longitude": 37.0595088,
+    "city": "Amhara",
+    "phone_number": "0582207661",
+    "type": "Branch",
+    "city": "Bure"
+  },
+  {
+    "branch_name": "Debre Markos",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 10.3360032,
+    "longitude": 37.7355613,
+    "city": "Amhara",
+    "phone_number": "0581788632",
+    "type": "Branch",
+    "city": "Debre Markos"
+  },
+  {
+    "branch_name": "Dessie",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 11.1166166,
+    "longitude": 39.6325138,
+    "city": "Amhara",
+    "phone_number": "0581788632",
+    "type": "Branch",
+    "city": "Dessie"
+  },
+  {
+    "branch_name": "Ganda Wuha",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 12.7793072,
+    "longitude": 36.4054854,
+    "city": "Amhara",
+    "phone_number": "0333111045",
+    "type": "Branch",
+    "city": "Ganda Wuha"
+  },
+  {
+    "branch_name": "Gonder",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 12.6028775,
+    "longitude": 37.4662044,
+    "city": "Amhara",
+    "phone_number": "0583310667",
+    "type": "Branch",
+    "city": "Gonder"
+  },
+  {
+    "branch_name": "Halal",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 11.1910864,
+    "longitude": 40.020598,
+    "city": "Amhara",
+    "phone_number": "0581112030",
+    "type": "Branch",
+    "city": "Bati"
+  },
+  {
+    "branch_name": "Kamise",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 10.7170359,
+    "longitude": 39.8656472,
+    "city": "Amhara",
+    "phone_number": "0335531793",
+    "type": "Branch",
+    "city": "Kemise"
+  },
+  {
+    "branch_name": "Logia Sultan Alimirah",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 11.7252264,
+    "longitude": 40.9768433,
+    "city": "Amhara",
+    "phone_number": "0332407272",
+    "type": "Branch",
+    "city": "Logia"
+  },
+  {
+    "branch_name": "Metema",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 12.9501097,
+    "longitude": 36.1587832,
+    "city": "Amhara",
+    "phone_number": "0335540603",
+    "type": "Branch",
+    "city": "Metema"
+  },
+  {
+    "branch_name": "Mufti Dawud",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 10.7156063,
+    "longitude": 39.8667079,
+    "city": "Amhara",
+    "phone_number": "0585555736",
+    "type": "Branch",
+    "city": "Kemise"
+  },
+  {
+    "branch_name": "Tana",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 11.5917651,
+    "longitude": 37.3881592,
+    "city": "Amhara",
+    "phone_number": "0335541432",
+    "type": "Branch",
+    "city": "Bahirdar"
+  },
+  {
+    "branch_name": "Wollo Kombolcha",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 11.0840248,
+    "longitude": 39.7377203,
+    "city": "Amhara",
+    "phone_number": "0583207322",
+    "type": "Branch",
+    "city": "Kombolcha"
+  },
+  {
+    "branch_name": "Humera",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 14.2819714,
+    "longitude": 36.6113513,
+    "city": "Tigray",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Humera"
+  },
+  {
+    "branch_name": "Aba Mala",
+    "district": "Central Finfinne",
+    "latitude": 9.0343962,
+    "longitude": 38.7440405,
+    "city": "Addis Ababa",
+    "phone_number": "0111266469/86",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Aba Nabso",
+    "district": "Central Finfinne",
+    "latitude": 9.0107978,
+    "longitude": 38.7382692,
+    "city": "Addis Ababa",
+    "phone_number": "0115572916/35",
+    "type": "Branch",
+    "city": "Addis Ababa - Lideta"
+  },
+  {
+    "branch_name": "Abdisa Aga",
+    "district": "Central Finfinne",
+    "latitude": 9.0117781,
+    "longitude": 38.7517346,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa - Lagahar"
+  },
+  {
+    "branch_name": "Agamsa",
+    "district": "Central Finfinne",
+    "latitude": 9.0324861,
+    "longitude": 38.7374587,
+    "city": "Addis Ababa",
+    "phone_number": "0112732471",
+    "type": "Branch",
+    "city": "Addis Ababa - Markato"
+  },
+  {
+    "branch_name": "Baro Korma",
+    "district": "Central Finfinne",
+    "latitude": 9.0234213,
+    "longitude": 38.7518661,
+    "city": "Addis Ababa",
+    "phone_number": "0111719041",
+    "type": "Branch",
+    "city": "Addis Ababa - Tikur Anbesa"
+  },
+  {
+    "branch_name": "Birbirsa",
+    "district": "Central Finfinne",
+    "latitude": 9.0405129,
+    "longitude": 38.7475052,
+    "city": "Addis Ababa",
+    "phone_number": "0111264526",
+    "type": "Branch",
+    "city": "Addis Ababa - Sebara babur"
+  },
+  {
+    "branch_name": "Birmaji",
+    "district": "Central Finfinne",
+    "latitude": 9.0020528,
+    "longitude": 38.7695174,
+    "city": "Addis Ababa",
+    "phone_number": "0115573969",
+    "type": "Branch",
+    "city": "Addis Ababa - etu commercial center"
+  },
+  {
+    "branch_name": "Bomb Tera",
+    "district": "Central Finfinne",
+    "latitude": 9.0287136,
+    "longitude": 38.740106,
+    "city": "Addis Ababa",
+    "phone_number": "0112732057/47/64",
+    "type": "Branch",
+    "city": "Addis Ababa"
+  },
+  {
+    "branch_name": "Caffe Anani",
+    "district": "Central Finfinne",
+    "latitude": 9.0049249,
+    "longitude": 38.7467304,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa - Mexico"
+  },
+  {
+    "branch_name": "Churchil",
+    "district": "Central Finfinne",
+    "latitude": 9.0301337,
+    "longitude": 38.7511908,
+    "city": "Addis Ababa",
+    "phone_number": "0111262741/69",
+    "type": "Branch",
+    "city": "Addis Ababa - Churchil road"
+  },
+  {
+    "branch_name": "Debaso ",
+    "district": "Central Finfinne",
+    "latitude": 9.0119559,
+    "longitude": 38.7548001,
+    "city": "Addis Ababa",
+    "phone_number": "0115319109",
+    "type": "Branch",
+    "city": "Addis Ababa - Stadium"
+  },
+  {
+    "branch_name": "Dolo Bidena",
+    "district": "Central Finfinne",
+    "latitude": 8.9963131,
+    "longitude": 38.7546523,
+    "city": "Addis Ababa",
+    "phone_number": "0114704807/5643",
+    "type": "Branch",
+    "city": "Addis Ababa - Bekilobet"
+  },
+  {
+    "branch_name": "Gojem Berenda",
+    "district": "Central Finfinne",
+    "latitude": 9.026621,
+    "longitude": 38.7405539,
+    "city": "Addis Ababa",
+    "phone_number": "0112132832/5180",
+    "type": "Branch",
+    "city": "Addis Ababa - Gojam berenda"
+  },
+  {
+    "branch_name": "Haile Fida",
+    "district": "Central Finfinne",
+    "latitude": 8.9945987,
+    "longitude": 38.7490609,
+    "city": "Addis Ababa",
+    "phone_number": "0114702391",
+    "type": "Branch",
+    "city": "Addis Ababa - Qera bulgariya"
+  },
+  {
+    "branch_name": "Hilal",
+    "district": "Central Finfinne",
+    "latitude": 9.0312582,
+    "longitude": 38.746109,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa - Somale tera"
+  },
+  {
+    "branch_name": "Hurufa Rare",
+    "district": "Central Finfinne",
+    "latitude": 9.0306464,
+    "longitude": 38.7331139,
+    "city": "Addis Ababa",
+    "phone_number": "0112735487",
+    "type": "Branch",
+    "city": "Addis Ababa - Sebategna"
+  },
+  {
+    "branch_name": "Kebena",
+    "district": "Central Finfinne",
+    "latitude": 9.0325382,
+    "longitude": 38.775794,
+    "city": "Addis Ababa",
+    "phone_number": "0111260215/55",
+    "type": "Branch",
+    "city": "Addis Ababa - Kebena"
+  },
+  {
+    "branch_name": "Kello Maskala",
+    "district": "Central Finfinne",
+    "latitude": 9.0323034,
+    "longitude": 38.7619744,
+    "city": "Addis Ababa",
+    "phone_number": "0111265174",
+    "type": "Branch",
+    "city": "Addis Ababa - Arat killo"
+  },
+  {
+    "branch_name": "Markato",
+    "district": "Central Finfinne",
+    "latitude": 9.0313648,
+    "longitude": 38.7383789,
+    "city": "Addis Ababa",
+    "phone_number": "0112732411",
+    "type": "Branch",
+    "city": "Addis Ababa - Dubai tera"
+  },
+  {
+    "branch_name": "Mesalemia",
+    "district": "Central Finfinne",
+    "latitude": 9.0342377,
+    "longitude": 38.7248706,
+    "city": "Addis Ababa",
+    "phone_number": "0112783434/33/35",
+    "type": "Branch",
+    "city": "Addis Ababa - Mesalemia"
+  },
+  {
+    "branch_name": "Meskel Flower",
+    "district": "Central Finfinne",
+    "latitude": 8.9938521,
+    "longitude": 38.7658484,
+    "city": "Addis Ababa",
+    "phone_number": "0114701289",
+    "type": "Branch",
+    "city": "mAddis Ababa - Meskel flawor"
+  },
+  {
+    "branch_name": "Mina",
+    "district": "Central Finfinne",
+    "latitude": 9.0276413,
+    "longitude": 38.7388572,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa - Hadera mosquue"
+  },
+  {
+    "branch_name": "Qarsa Main",
+    "district": "Central Finfinne",
+    "latitude": 9.0139231,
+    "longitude": 38.7506884,
+    "city": "Addis Ababa",
+    "phone_number": "0115548201",
+    "type": "Branch",
+    "city": "Addis Ababa - Sengatera"
+  },
+  {
+    "branch_name": "Robale",
+    "district": "Central Finfinne",
+    "latitude": 9.0380914,
+    "longitude": 38.7654502,
+    "city": "Addis Ababa",
+    "phone_number": "0111544877",
+    "type": "Branch",
+    "city": "Addis Ababa - 5-killo"
+  },
+  {
+    "branch_name": "Shagar",
+    "district": "Central Finfinne",
+    "latitude": 9.0321367,
+    "longitude": 38.7391275,
+    "city": "Addis Ababa",
+    "phone_number": "0112758188/57",
+    "type": "Branch",
+    "city": "Addis Ababa - Markato"
+  },
+  {
+    "branch_name": "Sinqe",
+    "district": "Central Finfinne",
+    "latitude": 8.9818084,
+    "longitude": 38.7635664,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa - Gotera wengelawit area"
+  },
+  {
+    "branch_name": "Sora Lume",
+    "district": "Central Finfinne",
+    "latitude": 9.0377259,
+    "longitude": 38.7416989,
+    "city": "Addis Ababa",
+    "phone_number": "0111870788",
+    "type": "Branch",
+    "city": "Addis Ababa - Kibe berenda"
+  },
+  {
+    "branch_name": "Sulula Garbi",
+    "district": "Central Finfinne",
+    "latitude": 9.0253189,
+    "longitude": 38.7390456,
+    "city": "Addis Ababa",
+    "phone_number": "0112317030/27",
+    "type": "Branch",
+    "city": "Addis Ababa - Chid tera"
+  },
+  {
+    "branch_name": "Umu Ayman",
+    "district": "Central Finfinne",
+    "latitude": 9.0319972,
+    "longitude": 38.741464,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa - Markato"
+  },
+  {
+    "branch_name": "Wayu",
+    "district": "Central Finfinne",
+    "latitude": 9.0457155,
+    "longitude": 38.7476413,
+    "city": "Addis Ababa",
+    "phone_number": "0111712027",
+    "type": "Branch",
+    "city": "Addis Ababa - Semen hotel"
+  },
+  {
+    "branch_name": "Wirtu Markato",
+    "district": "Central Finfinne",
+    "latitude": 9.0289963,
+    "longitude": 38.7374022,
+    "city": "Addis Ababa",
+    "phone_number": "0112733524/3486",
+    "type": "Branch",
+    "city": "Addis Ababa - Markato"
+  },
+  {
+    "branch_name": "Yai Goro",
+    "district": "Central Finfinne",
+    "latitude": 9.0393962,
+    "longitude": 38.7543252,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa - Piazza"
+  },
+  {
+    "branch_name": "Yai Gulale",
+    "district": "Central Finfinne",
+    "latitude": 9.0481454,
+    "longitude": 38.7396727,
+    "city": "Addis Ababa",
+    "phone_number": "0111262808/06",
+    "type": "Branch",
+    "city": "Addis Ababa - Enkulal fabrica"
+  },
+  {
+    "branch_name": "Albukhari",
+    "district": "Chiro",
+    "latitude": 8.9040698,
+    "longitude": 40.7755137,
+    "city": "Oromia",
+    "phone_number": "025 555 11 26",
+    "type": "Branch",
+    "city": "Bedessa"
+  },
+  {
+    "branch_name": "Ancher",
+    "district": "Chiro",
+    "latitude": 8.6922742,
+    "longitude": 40.236549,
+    "city": "Oromia",
+    "phone_number": "025 240 31 97",
+    "type": "Branch",
+    "city": "Chelelaqa"
+  },
+  {
+    "branch_name": "Baroda",
+    "district": "Chiro",
+    "latitude": 9.3351374,
+    "longitude": 41.2921111,
+    "city": "Oromia",
+    "phone_number": "025 443 04 42",
+    "type": "Branch",
+    "city": "West Hararge (Baroda)"
+  },
+  {
+    "branch_name": "Badessa",
+    "district": "Chiro",
+    "latitude": 8.9039912,
+    "longitude": 40.7782011,
+    "city": "Oromia",
+    "phone_number": "025 555 00 19",
+    "type": "Branch",
+    "city": "West Hararge (Badessa)"
+  },
+  {
+    "branch_name": "Boke Xiqo",
+    "district": "Chiro",
+    "latitude": 8.7253939,
+    "longitude": 40.6436038,
+    "city": "Oromia",
+    "phone_number": "025 230 08 79",
+    "type": "Branch",
+    "city": "West Hararge(Boke Xiqo)"
+  },
+  {
+    "branch_name": "Chiro",
+    "district": "Chiro",
+    "latitude": 9.0874864,
+    "longitude": 40.8662716,
+    "city": "Oromia",
+    "phone_number": "025 551 22 72",
+    "type": "Branch",
+    "city": "West Hararge (Chiro)"
+  },
+  {
+    "branch_name": "Dadar",
+    "district": "Chiro",
+    "latitude": 9.3235918,
+    "longitude": 41.4448483,
+    "city": "Oromia",
+    "phone_number": "025 333 00 55",
+    "type": "Branch",
+    "city": "West Hararge(Dadar)"
+  },
+  {
+    "branch_name": "Doba",
+    "district": "Chiro",
+    "latitude": 9.2852187,
+    "longitude": 41.0914439,
+    "city": "Oromia",
+    "phone_number": "025 667 06 91",
+    "type": "Branch",
+    "city": "West Hararge (Doba)"
+  },
+  {
+    "branch_name": "Furkan",
+    "district": "Chiro",
+    "latitude": 8.8120324,
+    "longitude": 40.5167974,
+    "city": "Oromia",
+    "phone_number": "025 552 19 49",
+    "type": "Branch",
+    "city": "West Hararge (Gelamso)"
+  },
+  {
+    "branch_name": "Garu Hira",
+    "district": "Chiro",
+    "latitude": 9.3128605,
+    "longitude": 41.4432843,
+    "city": "Oromia",
+    "phone_number": "025 333 12 65",
+    "type": "Branch",
+    "city": "East Hararge (Dadar)"
+  },
+  {
+    "branch_name": "Galamso",
+    "district": "Chiro",
+    "latitude": 8.8170592,
+    "longitude": 40.5193435,
+    "city": "Oromia",
+    "phone_number": "025 552 03 32",
+    "type": "Branch",
+    "city": "West Hararge (Galamso)"
+  },
+  {
+    "branch_name": "Hirna",
+    "district": "Chiro",
+    "latitude": 9.2164712,
+    "longitude": 41.1005482,
+    "city": "Oromia",
+    "phone_number": "025 441 08 73",
+    "type": "Branch",
+    "city": "West Hararge(Hirna)"
+  },
+  {
+    "branch_name": "Jaja",
+    "district": "Chiro",
+    "latitude": 9.0783363,
+    "longitude": 41.3662808,
+    "city": "Oromia",
+    "phone_number": "025 452 04 82",
+    "type": "Branch",
+    "city": "East Hararge (Jaja)"
+  },
+  {
+    "branch_name": "Kamona",
+    "district": "Chiro",
+    "latitude": 8.9499766,
+    "longitude": 40.5548606,
+    "city": "Oromia",
+    "phone_number": "025 451 05 20",
+    "type": "Branch",
+    "city": "West Hararge (Kamona)"
+  },
+  {
+    "branch_name": "Karamile",
+    "district": "Chiro",
+    "latitude": 9.3749135,
+    "longitude": 41.3723397,
+    "city": "Oromia",
+    "phone_number": "025 226 06 35",
+    "type": "Branch",
+    "city": "West  Hararge (Karamile)"
+  },
+  {
+    "branch_name": "Kobo",
+    "district": "Chiro",
+    "latitude": 9.3766503,
+    "longitude": 41.4741194,
+    "city": "Oromia",
+    "phone_number": "025 337 05 92  ",
+    "type": "Branch",
+    "city": "West Hararge (Kobo)"
+  },
+  {
+    "branch_name": "Machara",
+    "district": "Chiro",
+    "latitude": 8.6025732,
+    "longitude": 40.3249734,
+    "city": "Oromia",
+    "phone_number": "025 557 07 04",
+    "type": "Branch",
+    "city": "West Hararge (Machara)"
+  },
+  {
+    "branch_name": "Malka Ballo",
+    "district": "Chiro",
+    "latitude": 9.1763158,
+    "longitude": 41.3374553,
+    "city": "Oromia",
+    "phone_number": "025 668 08 34",
+    "type": "Branch",
+    "city": "West Hararge (Malka Ballo)"
+  },
+  {
+    "branch_name": "Michata",
+    "district": "Chiro",
+    "latitude": 8.5721445,
+    "longitude": 40.3182743,
+    "city": "Oromia",
+    "phone_number": "025 455 07 30",
+    "type": "Branch",
+    "city": "West Hararge (Micheta)"
+  },
+  {
+    "branch_name": "Miesso",
+    "district": "Chiro",
+    "latitude": 9.2302409,
+    "longitude": 40.7573056,
+    "city": "Oromia",
+    "phone_number": "025 444 00 86",
+    "type": "Branch",
+    "city": "West Hararge (Miesso)"
+  },
+  {
+    "branch_name": "Milqaye",
+    "district": "Chiro",
+    "latitude": 8.4312259,
+    "longitude": 40.5270509,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "West Hararge (Milkaye)"
+  },
+  {
+    "branch_name": "Murti Guto",
+    "district": "Chiro",
+    "latitude": 9.069542,
+    "longitude": 40.8669568,
+    "city": "Oromia",
+    "phone_number": "025 444 00 86",
+    "type": "Branch",
+    "city": "West Hararge (Chiro)"
+  },
+  {
+    "branch_name": "Oda Bultum",
+    "district": "Chiro",
+    "latitude": 9.0838253,
+    "longitude": 40.8669568,
+    "city": "Oromia",
+    "phone_number": "025 651 62 63",
+    "type": "Branch",
+    "city": "West Hararge (Chiro)"
+  },
+  {
+    "branch_name": "Sheik Mohammed Reshad",
+    "district": "Chiro",
+    "latitude": 9.0878619,
+    "longitude": 40.8653616,
+    "city": "Oromia",
+    "phone_number": "025 659 00 39",
+    "type": "Branch",
+    "city": "West Hararge (Chiro)"
+  },
+  {
+    "branch_name": "Shanan Dhugo",
+    "district": "Chiro",
+    "latitude": 9.08055508,
+    "longitude": 41.1739497,
+    "city": "Oromia",
+    "phone_number": "025 224 06 64",
+    "type": "Branch",
+    "city": "West Hararge (Shana Dhugo)"
+  },
+  {
+    "branch_name": "Tullo",
+    "district": "Chiro",
+    "latitude": 9.142298,
+    "longitude": 41.0067838,
+    "city": "Oromia",
+    "phone_number": "025 222 04 00",
+    "type": "Branch",
+    "city": "West Hararge (Debasso)"
+  },
+  {
+    "branch_name": "Abdi Qophe",
+    "district": "Dire Dawa",
+    "latitude": 9.6101915,
+    "longitude": 41.8398248,
+    "city": "Dire Dawa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Dire Dawa"
+  },
+  {
+    "branch_name": "Biftu",
+    "district": "Dire Dawa",
+    "latitude": 9.5974842,
+    "longitude": 41.8541714,
+    "city": "Dire Dawa",
+    "phone_number": "025 411 19 65",
+    "type": "Branch",
+    "city": "Dire Dawa"
+  },
+  {
+    "branch_name": "Dire Dawa",
+    "district": "Dire Dawa",
+    "latitude": 9.5931007,
+    "longitude": 41.8623043,
+    "city": "Dire Dawa",
+    "phone_number": "025 113 10 42",
+    "type": "Branch",
+    "city": "Langey"
+  },
+  {
+    "branch_name": "Greekcamp",
+    "district": "Dire Dawa",
+    "latitude": 9.5847102,
+    "longitude": 41.8593052,
+    "city": "Dire Dawa",
+    "phone_number": "025 211 13 45",
+    "type": "Branch",
+    "city": "Dire Dawa"
+  },
+  {
+    "branch_name": "Hafatesa",
+    "district": "Dire Dawa",
+    "latitude": 9.6002999,
+    "longitude": 41.8708383,
+    "city": "Dire Dawa",
+    "phone_number": "025 411 00 91",
+    "type": "Branch",
+    "city": "Kombalcha"
+  },
+  {
+    "branch_name": "Iqra",
+    "district": "Dire Dawa",
+    "latitude": 9.6028382,
+    "longitude": 41.8253981,
+    "city": "Dire Dawa",
+    "phone_number": "025 211 4760",
+    "type": "Branch",
+    "city": "Dire Dawa"
+  },
+  {
+    "branch_name": "Kafira ",
+    "district": "Dire Dawa",
+    "latitude": 9.588991,
+    "longitude": 41.8648882,
+    "city": "Dire Dawa",
+    "phone_number": "025 211 1025",
+    "type": "Branch",
+    "city": "Kefira (Diredawa)"
+  },
+  {
+    "branch_name": "Laga Oda",
+    "district": "Dire Dawa",
+    "latitude": 9.6075631,
+    "longitude": 41.847744,
+    "city": "Dire Dawa",
+    "phone_number": "025 411 98 76",
+    "type": "Branch",
+    "city": "Dire Dawa"
+  },
+  {
+    "branch_name": "Medinat",
+    "district": "Dire Dawa",
+    "latitude": 9.5917715,
+    "longitude": 41.8664402,
+    "city": "Dire Dawa",
+    "phone_number": "025 411 0696",
+    "type": "Branch",
+    "city": "Dire Dawa"
+  },
+  {
+    "branch_name": "Magala",
+    "district": "Dire Dawa",
+    "latitude": 9.5897164,
+    "longitude": 41.8654846,
+    "city": "Dire Dawa",
+    "phone_number": "025 411 40 89",
+    "type": "Branch",
+    "city": "Dire Dawa"
+  },
+  {
+    "branch_name": "Malka Jabdu ",
+    "district": "Dire Dawa",
+    "latitude": 9.6196067,
+    "longitude": 41.7811583,
+    "city": "Dire Dawa",
+    "phone_number": "025 116 04 72",
+    "type": "Branch",
+    "city": "Dire Dawa"
+  },
+  {
+    "branch_name": "Ras Hotel",
+    "district": "Dire Dawa",
+    "latitude": 9.5885826,
+    "longitude": 41.8588752,
+    "city": "Dire Dawa",
+    "phone_number": "025 211 9228",
+    "type": "Branch",
+    "city": "Dire Dawa"
+  },
+  {
+    "branch_name": "Sabian",
+    "district": "Dire Dawa",
+    "latitude": 9.6022234,
+    "longitude": 41.8419134,
+    "city": "Dire Dawa",
+    "phone_number": "025 111 15 91",
+    "type": "Branch",
+    "city": "Dire Dawa"
+  },
+  {
+    "branch_name": "Taiwan",
+    "district": "Dire Dawa",
+    "latitude": 9.5952819,
+    "longitude": 41.8667506,
+    "city": "Dire Dawa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Taiwan(Dire Dawa)"
+  },
+  {
+    "branch_name": "Awabader",
+    "district": "Dire Dawa",
+    "latitude": 9.313315,
+    "longitude": 42.1065165,
+    "city": "Harari",
+    "phone_number": "025 466 48 47",
+    "type": "Branch",
+    "city": "Harar"
+  },
+  {
+    "branch_name": "Bereka",
+    "district": "Dire Dawa",
+    "latitude": 9.3133518,
+    "longitude": 42.1217273,
+    "city": "Harari",
+    "phone_number": "025 466 30 35",
+    "type": "Branch",
+    "city": "Harar"
+  },
+  {
+    "branch_name": "Hundane",
+    "district": "Dire Dawa",
+    "latitude": 9.3120331,
+    "longitude": 41.1292008,
+    "city": "Harari",
+    "phone_number": "025 466 00 06",
+    "type": "Branch",
+    "city": "Harar"
+  },
+  {
+    "branch_name": "Mustafe Harawe ",
+    "district": "Dire Dawa",
+    "latitude": 9.3068988,
+    "longitude": 42.1327214,
+    "city": "Harari",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Harar (Jenella)"
+  },
+  {
+    "branch_name": "Ramadan",
+    "district": "Dire Dawa",
+    "latitude": 9.3112935,
+    "longitude": 42.136188,
+    "city": "Harari",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Harar ,Faras Magala(Harar)"
+  },
+  {
+    "branch_name": "Haromaya",
+    "district": "Dire Dawa",
+    "latitude": 9.3952405,
+    "longitude": 42.0108133,
+    "city": "Oromia",
+    "phone_number": "025 661 06 83",
+    "type": "Branch",
+    "city": "East Hararge, Haramaya"
+  },
+  {
+    "branch_name": "Abubeker Al Siddiq ",
+    "district": "Dire Dawa",
+    "latitude": 9.359993,
+    "longitude": 42.0456391,
+    "city": "Oromia",
+    "phone_number": "0256590104",
+    "type": "Branch",
+    "city": "Awaday"
+  },
+  {
+    "branch_name": "Afran Qalo",
+    "district": "Dire Dawa",
+    "latitude": 9.3599323,
+    "longitude": 42.0448157,
+    "city": "Oromia",
+    "phone_number": "025 662 05 03",
+    "type": "Branch",
+    "city": "Awaday"
+  },
+  {
+    "branch_name": "Ahmed Imam  ",
+    "district": "Dire Dawa",
+    "latitude": 9.4288876,
+    "longitude": 42.2376818,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "East Hararge ( Ahmed imam)"
+  },
+  {
+    "branch_name": "Babile",
+    "district": "Dire Dawa",
+    "latitude": 9.2256161,
+    "longitude": 42.3344472,
+    "city": "Oromia",
+    "phone_number": "025 665 00 35",
+    "type": "Branch",
+    "city": "East Hararge (Babile)"
+  },
+  {
+    "branch_name": "Badano ",
+    "district": "Dire Dawa",
+    "latitude": 9.1126249,
+    "longitude": 41.6361416,
+    "city": "Oromia",
+    "phone_number": "025 332 05 95",
+    "type": "Branch",
+    "city": "East Hararge ( Babile)"
+  },
+  {
+    "branch_name": "Bulullo ",
+    "district": "Dire Dawa",
+    "latitude": 9.3579417,
+    "longitude": 42.8257717,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "East Hararge ( Water)"
+  },
+  {
+    "branch_name": "Chalanqo",
+    "district": "Dire Dawa",
+    "latitude": 9.3950226,
+    "longitude": 41.5626468,
+    "city": "Oromia",
+    "phone_number": "025 335 08 10",
+    "type": "Branch",
+    "city": "East Hararge(Chalanqo)"
+  },
+  {
+    "branch_name": "Elemo Qiltu ",
+    "district": "Dire Dawa",
+    "latitude": 9.4536296,
+    "longitude": 41.8659525,
+    "city": "Oromia",
+    "phone_number": "025 336 03 32",
+    "type": "Branch",
+    "city": "East Hararge (Qersa)"
+  },
+  {
+    "branch_name": "Fedis  ",
+    "district": "Dire Dawa",
+    "latitude": 9.1352728,
+    "longitude": 42.077435,
+    "city": "Oromia",
+    "phone_number": "025 223 0648",
+    "type": "Branch",
+    "city": "East Hararge (Fadis)"
+  },
+  {
+    "branch_name": "Funyaan Bira  ",
+    "district": "Dire Dawa",
+    "latitude": 9.358357,
+    "longitude": 42.3939911,
+    "city": "Oromia",
+    "phone_number": "025 772 09 89",
+    "type": "Branch",
+    "city": "East Hararge (Funyan Bira)"
+  },
+  {
+    "branch_name": "Goro Muti  ",
+    "district": "Dire Dawa",
+    "latitude": 9.2115709,
+    "longitude": 41.5707616,
+    "city": "Oromia",
+    "phone_number": "025 240 05 83",
+    "type": "Branch",
+    "city": "East Hararge (Goro Mutii)"
+  },
+  {
+    "branch_name": "Hikma ",
+    "district": "Dire Dawa",
+    "latitude": 9.3961084,
+    "longitude": 42.0090151,
+    "city": "Oromia",
+    "phone_number": "025 659 00 28",
+    "type": "Branch",
+    "city": "East Hararge (Haramaya)"
+  },
+  {
+    "branch_name": "Jahan Jarso  ",
+    "district": "Dire Dawa",
+    "latitude": 9.4910042,
+    "longitude": 42.228074,
+    "city": "Oromia",
+    "phone_number": "025 229 0354",
+    "type": "Branch",
+    "city": "East Hararge (Dire Dawa)"
+  },
+  {
+    "branch_name": "Jara Abba gada",
+    "district": "Dire Dawa",
+    "latitude": 9.4375122,
+    "longitude": 41.7959344,
+    "city": "Oromia",
+    "phone_number": "025 220 05 64  ",
+    "type": "Branch",
+    "city": "East Hararge (Langey)"
+  },
+  {
+    "branch_name": "Kulubi",
+    "district": "Dire Dawa",
+    "latitude": 9.426661,
+    "longitude": 41.6819563,
+    "city": "Oromia",
+    "phone_number": "025 339 05 86",
+    "type": "Branch",
+    "city": "East Hararge, Kulubi"
+  },
+  {
+    "branch_name": "Mayu Muluke  ",
+    "district": "Dire Dawa",
+    "latitude": 8.6580556,
+    "longitude": 41.8469598,
+    "city": "Oromia",
+    "phone_number": "025 883 0679",
+    "type": "Branch",
+    "city": "East Hararge (Huse)"
+  },
+  {
+    "branch_name": "Gode  ",
+    "district": "Dire Dawa",
+    "latitude": 5.9523553,
+    "longitude": 43.550028,
+    "city": "Somali",
+    "phone_number": "025 776 18 61",
+    "type": "Branch",
+    "city": "Somali city(Gode)"
+  },
+  {
+    "branch_name": "Jigjiga",
+    "district": "Dire Dawa",
+    "latitude": 9.3511359,
+    "longitude": 42.7982504,
+    "city": "Somali",
+    "phone_number": "025 278 31 80",
+    "type": "Branch",
+    "city": "Somali (Jigjiga)"
+  },
+  {
+    "BranchCode": "ET0010550",
+    "branch_name": "Abebech Gobena",
+    "type": "Branch",
+    "city": "Addis,Bole,Addis Ababa",
+    "phone_number": "0116354916",
+    "latitude": 9.0104776,
+    "longitude": 38.7810185,
+    "district": "East Finfinne"
+  },
+  {
+    "branch_name": "Abebie Tufa",
+    "district": "East Finfinne",
+    "latitude": 9.0100151,
+    "longitude": 38.8531776,
+    "city": "Addis Ababa",
+    "phone_number": "0116682413",
+    "type": "Branch",
+    "city": "Addis Ababa - Summit Square"
+  },
+  {
+    "branch_name": "Akaki",
+    "district": "East Finfinne",
+    "latitude": 8.8671019,
+    "longitude": 38.7891368,
+    "city": "Addis Ababa",
+    "phone_number": "0114716028",
+    "type": "Branch",
+    "city": "Addis Ababa - Akaki"
+  },
+  {
+    "branch_name": "Baro Tumsa ",
+    "district": "East Finfinne",
+    "latitude": 9.0072267,
+    "longitude": 38.7763416,
+    "city": "Addis Ababa",
+    "phone_number": "0115578748",
+    "type": "Branch",
+    "city": "Addis Ababa - Urael"
+  },
+  {
+    "branch_name": "Beshale",
+    "district": "East Finfinne",
+    "latitude": 9.0064172,
+    "longitude": 38.8665056,
+    "city": "Addis Ababa",
+    "phone_number": "0118593533",
+    "type": "Branch",
+    "city": "Addis Ababa - Summit 72 mazoria"
+  },
+  {
+    "branch_name": "Bole Airport",
+    "district": "East Finfinne",
+    "latitude": 8.9882468,
+    "longitude": 38.7915465,
+    "city": "Addis Ababa",
+    "phone_number": "0118420018",
+    "type": "Branch",
+    "city": "Addis Ababa - Airport"
+  },
+  {
+    "branch_name": "Bole Arabsa",
+    "district": "East Finfinne",
+    "latitude": 8.9748688,
+    "longitude": 38.8889929,
+    "city": "Addis Ababa",
+    "phone_number": "011-612-6809",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole arabsa"
+  },
+  {
+    "branch_name": "Bole Atlas",
+    "district": "East Finfinne",
+    "latitude": 8.9980442,
+    "longitude": 38.7794901,
+    "city": "Addis Ababa",
+    "phone_number": "0116615714",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole Atlas"
+  },
+  {
+    "branch_name": "Bole Bulbula",
+    "district": "East Finfinne",
+    "latitude": 8.9481713,
+    "longitude": 38.7817043,
+    "city": "Addis Ababa",
+    "phone_number": "0114714519",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole bulbula"
+  },
+  {
+    "branch_name": "Bole Forex Office",
+    "district": "East Finfinne",
+    "latitude": 8.9837864,
+    "longitude": 38.7970839,
+    "city": "Addis Ababa",
+    "phone_number": "0118420332",
+    "type": "Branch",
+    "city": "Addis Ababa - Inside Bole air port"
+  },
+  {
+    "branch_name": "Bole Lemi",
+    "district": "East Finfinne",
+    "latitude": 8.9903617,
+    "longitude": 38.8292233,
+    "city": "Addis Ababa",
+    "phone_number": "0116677831",
+    "type": "Branch",
+    "city": "Addis Ababa - Goro"
+  },
+  {
+    "branch_name": "Bole Medanalem",
+    "district": "East Finfinne",
+    "latitude": 8.9932554,
+    "longitude": 38.7909026,
+    "city": "Addis Ababa",
+    "phone_number": "0116392254",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole Medhanlem"
+  },
+  {
+    "branch_name": "Bole Michael",
+    "district": "East Finfinne",
+    "latitude": 8.9846418,
+    "longitude": 38.774832,
+    "city": "Addis Ababa",
+    "phone_number": "0116262589",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole Michael"
+  },
+  {
+    "branch_name": "Bole Ruwanda",
+    "district": "East Finfinne",
+    "latitude": 8.9921432,
+    "longitude": 38.7814755,
+    "city": "Addis Ababa",
+    "phone_number": "011 662 15 88",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole Ruwanda"
+  },
+  {
+    "branch_name": "Damo Dadi",
+    "district": "East Finfinne",
+    "latitude": 8.979539,
+    "longitude": 38.7723543,
+    "city": "Addis Ababa",
+    "phone_number": "0116392949",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole Michael"
+  },
+  {
+    "branch_name": "Dhaga Bora",
+    "district": "East Finfinne",
+    "latitude": 9.0164668,
+    "longitude": 38.7914407,
+    "city": "Addis Ababa",
+    "phone_number": "0116663533",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole near Meklit bulIding"
+  },
+  {
+    "branch_name": "Dulo",
+    "district": "East Finfinne",
+    "latitude": 8.9600687,
+    "longitude": 38.7855402,
+    "city": "Addis Ababa",
+    "phone_number": "0118889153",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole Bulbula 93 mazoria"
+  },
+  {
+    "branch_name": "Eka Abado",
+    "district": "East Finfinne",
+    "latitude": 9.0209182,
+    "longitude": 38.87211,
+    "city": "Addis Ababa",
+    "phone_number": "0116391672",
+    "type": "Branch",
+    "city": "Addis Ababa - Ayat round about"
+  },
+  {
+    "branch_name": "Erer",
+    "district": "East Finfinne",
+    "latitude": 9.0052032,
+    "longitude": 38.808515,
+    "city": "Addis Ababa",
+    "phone_number": "0116394184",
+    "type": "Branch",
+    "city": "Addis Ababa - Gerji mebrat"
+  },
+  {
+    "branch_name": "Figa",
+    "district": "East Finfinne",
+    "latitude": 9.0103499,
+    "longitude": 38.8459572,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa - Summit to Figa road"
+  },
+  {
+    "branch_name": "Gawassa",
+    "district": "East Finfinne",
+    "latitude": 9.0167619,
+    "longitude": 38.825037,
+    "city": "Addis Ababa",
+    "phone_number": "0116660663",
+    "type": "Branch",
+    "city": "Addis Ababa - Sehalit mihret"
+  },
+  {
+    "branch_name": "Gerji",
+    "district": "East Finfinne",
+    "latitude": 8.9938281,
+    "longitude": 38.8131909,
+    "city": "Addis Ababa",
+    "phone_number": "0116394013",
+    "type": "Branch",
+    "city": "Addis Ababa - Gerji roba dabo"
+  },
+  {
+    "branch_name": "Gurd Sholla",
+    "district": "East Finfinne",
+    "latitude": 9.0193151,
+    "longitude": 38.8153565,
+    "city": "Addis Ababa",
+    "phone_number": "0116677206",
+    "type": "Branch",
+    "city": "Addis Ababa - Gurd shola"
+  },
+  {
+    "branch_name": "Haile Gebrie",
+    "district": "East Finfinne",
+    "latitude": 8.9334673,
+    "longitude": 38.7648018,
+    "city": "Addis Ababa",
+    "phone_number": "0114717593",
+    "type": "Branch",
+    "city": "Addis Ababa - Maseltegna"
+  },
+  {
+    "branch_name": "Handhura Tulama",
+    "district": "East Finfinne",
+    "latitude": 9.0084182,
+    "longitude": 38.7887042,
+    "city": "Addis Ababa",
+    "phone_number": "0116662045",
+    "type": "Branch",
+    "city": "Addis Ababa - St. gebriel hospital area"
+  },
+  {
+    "branch_name": "Haramine",
+    "district": "East Finfinne",
+    "latitude": 8.9819632,
+    "longitude": 38.774501,
+    "city": "Addis Ababa",
+    "phone_number": "0116393486",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole Michael"
+  },
+  {
+    "branch_name": "Harbu",
+    "district": "East Finfinne",
+    "latitude": 9.0193535,
+    "longitude": 38.8168627,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa - Gurd shola"
+  },
+  {
+    "branch_name": "Haya Hulet maz.(22 Mazoria)",
+    "district": "East Finfinne",
+    "latitude": 9.0148335,
+    "longitude": 38.7844188,
+    "city": "Addis Ababa",
+    "phone_number": "0116609346",
+    "type": "Branch",
+    "city": "Addis Ababa - Haya hulet(22)"
+  },
+  {
+    "branch_name": "Jate",
+    "district": "East Finfinne",
+    "latitude": 8.9097173,
+    "longitude": 38.7649643,
+    "city": "Addis Ababa",
+    "phone_number": "0114626252",
+    "type": "Branch",
+    "city": "Addis Ababa - Aqaqi kaliti gebriel church"
+  },
+  {
+    "branch_name": "Kara Qallu",
+    "district": "East Finfinne",
+    "latitude": 8.8965421,
+    "longitude": 38.7709397,
+    "city": "Addis Ababa",
+    "phone_number": "0114715016",
+    "type": "Branch",
+    "city": "Addis Ababa - Qaliti meneharia"
+  },
+  {
+    "branch_name": "Kura Jida",
+    "district": "East Finfinne",
+    "latitude": 9.0162161,
+    "longitude": 38.871938,
+    "city": "Addis Ababa",
+    "phone_number": "0116691414",
+    "type": "Branch",
+    "city": "Addis Ababa - Hayat infront of Lemi Kura sub city"
+  },
+  {
+    "branch_name": "Lami Industry",
+    "district": "East Finfinne",
+    "latitude": 8.9721394,
+    "longitude": 38.8566518,
+    "city": "Addis Ababa",
+    "phone_number": "0116689392",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole inside lemi industrial park"
+  },
+  {
+    "branch_name": "Lemo",
+    "district": "East Finfinne",
+    "latitude": 8.8811505,
+    "longitude": 38.7703994,
+    "city": "Addis Ababa",
+    "phone_number": "0114550008",
+    "type": "Branch",
+    "city": "Addis Ababa - Galan condominium"
+  },
+  {
+    "branch_name": "Mamo Mazamir",
+    "district": "East Finfinne",
+    "latitude": 8.9862182,
+    "longitude": 38.7749915,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole Around washingiton hospital"
+  },
+  {
+    "branch_name": "Melba",
+    "district": "East Finfinne",
+    "latitude": 9.0024652,
+    "longitude": 38.8441906,
+    "city": "Addis Ababa",
+    "phone_number": "0116726503",
+    "type": "Branch",
+    "city": "Addis Ababa - L/Kura near Cambridge academy"
+  },
+  {
+    "branch_name": "Migira Micro ",
+    "district": "East Finfinne",
+    "latitude": 8.9880568,
+    "longitude": 38.83411,
+    "city": "Addis Ababa",
+    "phone_number": "0116677831",
+    "type": "Branch",
+    "city": "Addis Ababa - Goro"
+  },
+  {
+    "branch_name": "Sadan Ekka",
+    "district": "East Finfinne",
+    "latitude": 9.0110247,
+    "longitude": 38.8381913,
+    "city": "Addis Ababa",
+    "phone_number": "0116677842",
+    "type": "Branch",
+    "city": "Addis Ababa - Summit"
+  },
+  {
+    "branch_name": "Saris",
+    "district": "East Finfinne",
+    "latitude": 8.9557957,
+    "longitude": 38.7639202,
+    "city": "Addis Ababa",
+    "phone_number": "0114431438",
+    "type": "Branch",
+    "city": "Addis Ababa - Saris"
+  },
+  {
+    "branch_name": "Shabu Ejersa ",
+    "district": "East Finfinne",
+    "latitude": 9.0007868,
+    "longitude": 38.8017075,
+    "city": "Addis Ababa",
+    "phone_number": "0116395339",
+    "type": "Branch",
+    "city": "Addis Ababa - Imperial hotel"
+  },
+  {
+    "branch_name": "Shala",
+    "district": "East Finfinne",
+    "latitude": 9.0057438,
+    "longitude": 38.7849454,
+    "city": "Addis Ababa",
+    "phone_number": "0116894303",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole shala"
+  },
+  {
+    "branch_name": "Tirunesh Dibaba ",
+    "district": "East Finfinne",
+    "latitude": 9.0190093,
+    "longitude": 38.8003792,
+    "city": "Addis Ababa",
+    "phone_number": "0116674052",
+    "type": "Branch",
+    "city": "Addis Ababa - Megenagna sileshi sihin bulding"
+  },
+  {
+    "branch_name": "Tulu Dimtu",
+    "district": "East Finfinne",
+    "latitude": 8.8724007,
+    "longitude": 38.8148501,
+    "city": "Addis Ababa",
+    "phone_number": "0114715094",
+    "type": "Branch",
+    "city": "Addis Ababa - Tulu dimtu"
+  },
+  {
+    "branch_name": "Wara Ganu",
+    "district": "East Finfinne",
+    "latitude": 8.9513848,
+    "longitude": 38.6862869,
+    "city": "Addis Ababa",
+    "phone_number": "0116671275",
+    "type": "Branch",
+    "city": "Addis Ababa - Bole Edna mall area"
+  },
+  {
+    "branch_name": "Dukam Industry zone",
+    "district": "East Finfinne",
+    "latitude": 8.7802967,
+    "longitude": 38.9147718,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Dukem"
+  },
+  {
+    "branch_name": "Galan",
+    "district": "East Finfinne",
+    "latitude": 8.8299813,
+    "longitude": 38.8439193,
+    "city": "Oromia",
+    "phone_number": "0114450493",
+    "type": "Branch",
+    "city": "Galan"
+  },
+  {
+    "branch_name": "Oda Nabe",
+    "district": "East Finfinne",
+    "latitude": 8.7921531,
+    "longitude": 38.9037868,
+    "city": "Oromia",
+    "phone_number": "0114718398",
+    "type": "Branch",
+    "city": "Dukem"
+  },
+  {
+    "branch_name": "Xadacha",
+    "district": "East Finfinne",
+    "latitude": 8.7885649,
+    "longitude": 38.9066121,
+    "city": "Oromia",
+    "phone_number": "0114 71 80 80",
+    "type": "Branch",
+    "city": "Dukem, Shagar"
+  },
+  {
+    "branch_name": "Adola",
+    "district": "Hawassa",
+    "latitude": 5.8780615,
+    "longitude": 38.9882396,
+    "city": "Oromia",
+    "phone_number": "0463350506",
+    "type": "Branch",
+    "city": "Adola Wayyu"
+  },
+  {
+    "branch_name": "Alnasir ",
+    "district": "Hawassa",
+    "latitude": 3.5321213,
+    "longitude": 39.0520264,
+    "city": "Oromia",
+    "phone_number": "0464441610",
+    "type": "Branch",
+    "city": "Moyale"
+  },
+  {
+    "branch_name": "Beriso Dukale",
+    "district": "Hawassa",
+    "latitude": 5.6368098,
+    "longitude": 38.2380557,
+    "city": "Oromia",
+    "phone_number": "0464431338",
+    "type": "Branch",
+    "city": "W/Guji ,Bule Hora"
+  },
+  {
+    "branch_name": "Bore",
+    "district": "Hawassa",
+    "latitude": 6.3676925,
+    "longitude": 38.6243452,
+    "city": "Oromia",
+    "phone_number": "0466670535",
+    "type": "Branch",
+    "city": "E/Guji, Bore"
+  },
+  {
+    "branch_name": "Bule Hora",
+    "district": "Hawassa",
+    "latitude": 5.6449206,
+    "longitude": 38.2380503,
+    "city": "Oromia",
+    "phone_number": "0464430245",
+    "type": "Branch",
+    "city": "W/Guji ,Bule Hora"
+  },
+  {
+    "branch_name": "Moyale",
+    "district": "Hawassa",
+    "latitude": 3.5374524,
+    "longitude": 39.0509909,
+    "city": "Oromia",
+    "phone_number": "0464441168",
+    "type": "Branch",
+    "city": "Borena,Moyale"
+  },
+  {
+    "branch_name": "Nagile Borana",
+    "district": "Hawassa",
+    "latitude": 5.3351554,
+    "longitude": 39.5777429,
+    "city": "Oromia",
+    "phone_number": "0464453790",
+    "type": "Branch",
+    "city": "E/Guji, Negelle Borena"
+  },
+  {
+    "branch_name": "Tullu Farda",
+    "district": "Hawassa",
+    "latitude": 4.0603867,
+    "longitude": 38.3204397,
+    "city": "Oromia",
+    "phone_number": "0464480521",
+    "type": "Branch",
+    "city": "Borena,Mega"
+  },
+  {
+    "branch_name": "Yabalo",
+    "district": "Hawassa",
+    "latitude": 4.8925905,
+    "longitude": 38.0916566,
+    "city": "Oromia",
+    "phone_number": "0464461051",
+    "type": "Branch",
+    "city": "Borana, Yabelo"
+  },
+  {
+    "branch_name": "Alemura",
+    "district": "Hawassa",
+    "latitude": 7.0380921,
+    "longitude": 38.47772714,
+    "city": "Sidama",
+    "phone_number": "0462121436",
+    "type": "Branch",
+    "city": "Sidama,Hawassa"
+  },
+  {
+    "branch_name": "Bensa Daye",
+    "district": "Hawassa",
+    "latitude": 6.5253208,
+    "longitude": 38.8272454,
+    "city": "Sidama",
+    "phone_number": "0463370599",
+    "type": "Branch",
+    "city": "Sidama,Bensa Daye"
+  },
+  {
+    "branch_name": "Fura",
+    "district": "Hawassa",
+    "latitude": 7.0367542,
+    "longitude": 38.4876858,
+    "city": "Sidama",
+    "phone_number": "0462125186",
+    "type": "Branch",
+    "city": "Sidama,Hawassa"
+  },
+  {
+    "branch_name": "Hawassa",
+    "district": "Hawassa",
+    "latitude": 7.0565181,
+    "longitude": 38.4764824,
+    "city": "Sidama",
+    "phone_number": "0462211294",
+    "type": "Branch",
+    "city": "Hawassa"
+  },
+  {
+    "branch_name": "Hawassa Industrial Park",
+    "district": "Hawassa",
+    "latitude": 7.068745,
+    "longitude": 38.49773829,
+    "city": "Sidama",
+    "phone_number": "0462121348",
+    "type": "Branch",
+    "city": "Sidama,Hawassa"
+  },
+  {
+    "branch_name": "Laku",
+    "district": "Hawassa",
+    "latitude": 6.8748406,
+    "longitude": 38.440779,
+    "city": "Sidama",
+    "phone_number": "0462260789",
+    "type": "Branch",
+    "city": "Sidama,Laku"
+  },
+  {
+    "branch_name": "Shafeta",
+    "district": "Hawassa",
+    "latitude": 7.0247674,
+    "longitude": 38.4966539,
+    "city": "Sidama",
+    "phone_number": "0462127824",
+    "type": "Branch",
+    "city": "Sidama,Hawassa"
+  },
+  {
+    "branch_name": "Sumuda",
+    "district": "Hawassa",
+    "latitude": 7.0492757,
+    "longitude": 38.4772714,
+    "city": "Sidama",
+    "phone_number": "0462121139",
+    "type": "Branch",
+    "city": "Sidama,Hawassa"
+  },
+  {
+    "branch_name": "Tabor",
+    "district": "Hawassa",
+    "latitude": 7.0475415,
+    "longitude": 38.4900413,
+    "city": "Sidama",
+    "phone_number": "0462124891",
+    "type": "Branch",
+    "city": "Sidama,Hawassa"
+  },
+  {
+    "branch_name": "Warka",
+    "district": "Hawassa",
+    "latitude": 7.0528768,
+    "longitude": 38.4851565,
+    "city": "Sidama",
+    "phone_number": "0462121059",
+    "type": "Branch",
+    "city": "Sidama,Hawassa"
+  },
+  {
+    "branch_name": "Yirgalem",
+    "district": "Hawassa",
+    "latitude": 6.7471496,
+    "longitude": 38.4071111,
+    "city": "Sidama",
+    "phone_number": "0463288606",
+    "type": "Branch",
+    "city": "Yirgalem"
+  },
+  {
+    "branch_name": "Deraro ",
+    "district": "Hawassa",
+    "latitude": 6.4153387,
+    "longitude": 38.3022437,
+    "city": "South Ethiopia cityal State",
+    "phone_number": "0461310133",
+    "type": "Branch",
+    "city": "Dila"
+  },
+  {
+    "branch_name": "Dolo Ado",
+    "district": "Hawassa",
+    "latitude": 4.1784184,
+    "longitude": 42.0570364,
+    "city": "Somali",
+    "phone_number": "046449003",
+    "type": "Branch",
+    "city": "Somale city,Dollo Ado"
+  },
+  {
+    "branch_name": "Arbaminch",
+    "district": "Hosana",
+    "latitude": 6.0320998,
+    "longitude": 37.5572826,
+    "city": "South Ethiopia cityal State",
+    "phone_number": "0461813934",
+    "type": "Branch",
+    "city": "Arbaminch Town"
+  },
+  {
+    "branch_name": "Areka",
+    "district": "Hosana",
+    "latitude": 7.0680735,
+    "longitude": 37.7067592,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0465521734",
+    "type": "Branch",
+    "city": "Wolaita Zone, Areka Town"
+  },
+  {
+    "branch_name": "Boditi",
+    "district": "Hosana",
+    "latitude": 6.9547814,
+    "longitude": 37.8577187,
+    "city": "South Ethiopia cityal State",
+    "phone_number": "0465590889",
+    "type": "Branch",
+    "city": "Wolaita Zone, Boditi Town"
+  },
+  {
+    "branch_name": "Bonosha",
+    "district": "Hosana",
+    "latitude": 7.5103592,
+    "longitude": 38.0917366,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0464530609",
+    "type": "Branch",
+    "city": "Hadiya Zone, Bonosha Town"
+  },
+  {
+    "branch_name": "Bui",
+    "district": "Hosana",
+    "latitude": 8.3218106,
+    "longitude": 38.5499332,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0468830662",
+    "type": "Branch",
+    "city": "Gurage Zone, Bui Town"
+  },
+  {
+    "branch_name": "Butajira",
+    "district": "Hosana",
+    "latitude": 8.1206216,
+    "longitude": 38.3788288,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0461450480",
+    "type": "Branch",
+    "city": "Butajira Town"
+  },
+  {
+    "branch_name": "Conolel Bezabhi Petros Adebabay",
+    "district": "Hosana",
+    "latitude": 7.5493562,
+    "longitude": 37.8517882,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0461785578",
+    "type": "Branch",
+    "city": "Hadiya Town"
+  },
+  {
+    "branch_name": "Doyogena",
+    "district": "Hosana",
+    "latitude": 7.3572873,
+    "longitude": 37.775744,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0462440481",
+    "type": "Branch",
+    "city": "Kambata Tambaro Zone, Doyogena Town"
+  },
+  {
+    "branch_name": "Durame",
+    "district": "Hosana",
+    "latitude": 7.2463949,
+    "longitude": 37.901103,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0465541818",
+    "type": "Branch",
+    "city": "Kambata Tambaro Zone, Durame Town"
+  },
+  {
+    "branch_name": "Hadero",
+    "district": "Hosana",
+    "latitude": 7.1946042,
+    "longitude": 37.665997,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "046 4 32 06 47",
+    "type": "Branch",
+    "city": "Kambata Tambaro Zone, Hadero Town"
+  },
+  {
+    "branch_name": "Halaba Kulito",
+    "district": "Hosana",
+    "latitude": 7.3102409,
+    "longitude": 38.0969075,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "046 5 56 18 67",
+    "type": "Branch",
+    "city": "Halaba Kulito Town"
+  },
+  {
+    "branch_name": "Hossana",
+    "district": "Hosana",
+    "latitude": 7.5531543,
+    "longitude": 37.8562709,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0465550038",
+    "type": "Branch",
+    "city": "Hadiya Zone, Hossana Town"
+  },
+  {
+    "branch_name": "Jajura",
+    "district": "Hosana",
+    "latitude": 7.4659429,
+    "longitude": 37.6853834,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "046-320-67-51",
+    "type": "Branch",
+    "city": "Hadiya Zone, Jajura Town"
+  },
+  {
+    "branch_name": "Kela",
+    "district": "Hosana",
+    "latitude": 8.2714853,
+    "longitude": 38.5133918,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0464640288",
+    "type": "Branch",
+    "city": "Gurage Zone, Kela Town"
+  },
+  {
+    "branch_name": "Omar Ibn Al-Kattab",
+    "district": "Hosana",
+    "latitude": 7.8596452,
+    "longitude": 38.1908031,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "046 7 77 01 63",
+    "type": "Branch",
+    "city": "Silte Zone, Warabe Town"
+  },
+  {
+    "branch_name": "Shinshicho",
+    "district": "Hosana",
+    "latitude": 7.2061481,
+    "longitude": 37.777294,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "046-339-09-85",
+    "type": "Branch",
+    "city": "SNNP, Shinshicho Town"
+  },
+  {
+    "branch_name": "Tona",
+    "district": "Hosana",
+    "latitude": 6.8636803,
+    "longitude": 37.7604707,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "046-180-43-16",
+    "type": "Branch",
+    "city": "Wolaita Zone, Sodo Town"
+  },
+  {
+    "branch_name": "Wolaita Sodo",
+    "district": "Hosana",
+    "latitude": 6.8578383,
+    "longitude": 37.7581633,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0465510922",
+    "type": "Branch",
+    "city": "Wolayita Zone, Sodo Town"
+  },
+  {
+    "branch_name": "Walkite",
+    "district": "Hosana",
+    "latitude": 8.2821639,
+    "longitude": 37.7786692,
+    "city": "Central Ethiopia cityal State",
+    "phone_number": "0113658146",
+    "type": "Branch",
+    "city": "Gurage Zone, Wolkite Town"
+  },
+  {
+    "branch_name": "Gambella",
+    "district": "Jimma",
+    "latitude": 8.2548429,
+    "longitude": 34.590403,
+    "city": "Gambella",
+    "phone_number": "047-342-0498",
+    "type": "Branch",
+    "city": "Gera"
+  },
+  {
+    "branch_name": "Newland",
+    "district": "Jimma",
+    "latitude": 8.2459198,
+    "longitude": 34.5975895,
+    "city": "Gambella",
+    "phone_number": "047-115-0500",
+    "type": "Branch",
+    "city": "Nada"
+  },
+  {
+    "branch_name": "Aba Jifar",
+    "district": "Jimma",
+    "latitude": 7.6662035,
+    "longitude": 36.8399467,
+    "city": "Oromia",
+    "phone_number": "0472211714",
+    "type": "Branch",
+    "city": "Agaro"
+  },
+  {
+    "branch_name": "Agaro",
+    "district": "Jimma",
+    "latitude": 7.8500229,
+    "longitude": 36.5832382,
+    "city": "Oromia",
+    "phone_number": "0472211714",
+    "type": "Branch",
+    "city": "Bacho Bore"
+  },
+  {
+    "branch_name": "Al Rahma",
+    "district": "Jimma",
+    "latitude": 7.6667672,
+    "longitude": 36.8398956,
+    "city": "Oromia",
+    "phone_number": "047-344-0424",
+    "type": "Branch",
+    "city": "Alge Sachi "
+  },
+  {
+    "branch_name": "Alge Sachi",
+    "district": "Jimma",
+    "latitude": 8.5912155,
+    "longitude": 35.73365,
+    "city": "Oromia",
+    "phone_number": "0472210921",
+    "type": "Branch",
+    "city": "Agaro"
+  },
+  {
+    "branch_name": "Amana",
+    "district": "Jimma",
+    "latitude": 7.8552175,
+    "longitude": 36.5856812,
+    "city": "Oromia",
+    "phone_number": "047-114-0628",
+    "type": "Branch",
+    "city": "Asendabo"
+  },
+  {
+    "branch_name": "Asandabo",
+    "district": "Jimma",
+    "latitude": 7.7569348,
+    "longitude": 37.2223332,
+    "city": "Oromia",
+    "phone_number": "047-211-2674",
+    "type": "Branch",
+    "city": "Jimma"
+  },
+  {
+    "branch_name": "Awetu",
+    "district": "Jimma",
+    "latitude": 7.6763694,
+    "longitude": 36.8332814,
+    "city": "Oromia",
+    "phone_number": "047-445-0922",
+    "type": "Branch",
+    "city": "Bedelle"
+  },
+  {
+    "branch_name": "Bedele",
+    "district": "Jimma",
+    "latitude": 8.4556474,
+    "longitude": 36.3524018,
+    "city": "Oromia",
+    "phone_number": "0473311698",
+    "type": "Branch",
+    "city": "Kefa Zone, Bonga Town"
+  },
+  {
+    "branch_name": "Chora",
+    "district": "Jimma",
+    "latitude": 8.3639004,
+    "longitude": 36.1285871,
+    "city": "Oromia",
+    "phone_number": "047-443-0551",
+    "type": "Branch",
+    "city": "Buno Bedelle Zone, Dambi Town"
+  },
+  {
+    "branch_name": "Dambi",
+    "district": "Jimma",
+    "latitude": 8.0337234,
+    "longitude": 36.4653834,
+    "city": "Oromia",
+    "phone_number": "047-444-0579",
+    "type": "Branch",
+    "city": "I/A/Bora Zone, Darimu Town "
+  },
+  {
+    "branch_name": "Darimu",
+    "district": "Jimma",
+    "latitude": 8.5833861,
+    "longitude": 35.507458,
+    "city": "Oromia",
+    "phone_number": "047-223-0600",
+    "type": "Branch",
+    "city": "Jimma Zone, Dedo Town"
+  },
+  {
+    "branch_name": "Dedo",
+    "district": "Jimma",
+    "latitude": 7.5071367,
+    "longitude": 36.8821578,
+    "city": "Oromia",
+    "phone_number": "0472114600",
+    "type": "Branch",
+    "city": "Jimma Zone, Jimma Town"
+  },
+  {
+    "branch_name": "Fethi Mesjid",
+    "district": "Jimma",
+    "latitude": 7.6707344,
+    "longitude": 36.833574,
+    "city": "Oromia",
+    "phone_number": "047-340-0785",
+    "type": "Branch",
+    "city": "Buno BedelleZone, Gachi Town"
+  },
+  {
+    "branch_name": "Gachi",
+    "district": "Jimma",
+    "latitude": 8.3312648,
+    "longitude": 36.4223081,
+    "city": "Oromia",
+    "phone_number": "047-551-2431",
+    "type": "Branch",
+    "city": "Gambella Town"
+  },
+  {
+    "branch_name": "Gera",
+    "district": "Jimma",
+    "latitude": 7.743795,
+    "longitude": 36.2490539,
+    "city": "Oromia",
+    "phone_number": "047-554-0878",
+    "type": "Branch",
+    "city": "I/A/Bora, Gore Town"
+  },
+  {
+    "branch_name": "Gore",
+    "district": "Jimma",
+    "latitude": 8.1526257,
+    "longitude": 35.5373521,
+    "city": "Oromia",
+    "phone_number": "047-211-2461",
+    "type": "Branch",
+    "city": "Jimma Zone, Jimma Town"
+  },
+  {
+    "branch_name": "Hirmata",
+    "district": "Jimma",
+    "latitude": 7.6690542,
+    "longitude": 36.8355211,
+    "city": "Oromia",
+    "phone_number": "047-211-4499",
+    "type": "Branch",
+    "city": "Jimma Zone, Jimma Town"
+  },
+  {
+    "branch_name": "Jiren",
+    "district": "Jimma",
+    "latitude": 7.6842262,
+    "longitude": 36.8495139,
+    "city": "Oromia",
+    "phone_number": "047-211-4499",
+    "type": "Branch",
+    "city": "Jimma Zone, Jimma Town"
+  },
+  {
+    "branch_name": "Limmu Saqqaa ",
+    "district": "Jimma",
+    "latitude": 8.3026156,
+    "longitude": 36.9478935,
+    "city": "Oromia",
+    "phone_number": "0474452290",
+    "type": "Branch",
+    "city": "Buno Bedelle Zone, Bedelle Town"
+  },
+  {
+    "branch_name": "Malka Dabana",
+    "district": "Jimma",
+    "latitude": 8.4587245,
+    "longitude": 36.351545,
+    "city": "Oromia",
+    "phone_number": "0474410929",
+    "type": "Branch",
+    "city": "I/A/Bora Zone, Matu Town"
+  },
+  {
+    "branch_name": "Matu",
+    "district": "Jimma",
+    "latitude": 8.2966747,
+    "longitude": 35.5831353,
+    "city": "Oromia",
+    "phone_number": "047-135-0251",
+    "type": "Branch",
+    "city": "Benchi Maji Zone, Mizan Aman Town"
+  },
+  {
+    "branch_name": "Omo Nada",
+    "district": "Jimma",
+    "latitude": 7.6305424,
+    "longitude": 37.2498911,
+    "city": "Oromia",
+    "phone_number": "047-655-0439",
+    "type": "Branch",
+    "city": "Jimma Zone, Gatora Town"
+  },
+  {
+    "branch_name": "Saxamma",
+    "district": "Jimma",
+    "latitude": 7.9769837,
+    "longitude": 36.2051876,
+    "city": "Oromia",
+    "phone_number": "+251476550439",
+    "type": "Branch",
+    "city": "Jimma Zone, Gindo Guduru Town"
+  },
+  {
+    "branch_name": "Sadacha",
+    "district": "Jimma",
+    "latitude": 7.6680915,
+    "longitude": 36.8474612,
+    "city": "Oromia",
+    "phone_number": "047-441-3568",
+    "type": "Branch",
+    "city": "I/A/Bora Zone, Matu Town Town"
+  },
+  {
+    "branch_name": "Saglan Ilu",
+    "district": "Jimma",
+    "latitude": 8.2958037,
+    "longitude": 35.5813446,
+    "city": "Oromia",
+    "phone_number": "0471160603",
+    "type": "Branch",
+    "city": "Jimma Zone, Saqa Chokorsa Town"
+  },
+  {
+    "branch_name": "Saqa Chokorsa",
+    "district": "Jimma",
+    "latitude": 7.605473,
+    "longitude": 36.7272269,
+    "city": "Oromia",
+    "phone_number": "0471130664",
+    "type": "Branch",
+    "city": "Jimma Zone, Sarbo Town"
+  },
+  {
+    "branch_name": "Serbo",
+    "district": "Jimma",
+    "latitude": 7.7123083,
+    "longitude": 37.0012786,
+    "city": "Oromia",
+    "phone_number": "047-118-0508",
+    "type": "Branch",
+    "city": "Jimma Zone, Shabe Town"
+  },
+  {
+    "branch_name": "Shabe",
+    "district": "Jimma",
+    "latitude": 7.5095439,
+    "longitude": 36.5190792,
+    "city": "Oromia",
+    "phone_number": "047-111-8176",
+    "type": "Branch",
+    "city": "Jimma Zone, Jimma Town"
+  },
+  {
+    "branch_name": "Shanan Gibe",
+    "district": "Jimma",
+    "latitude": 7.6627614,
+    "longitude": 36.8550212,
+    "city": "Oromia",
+    "phone_number": "0471117994",
+    "type": "Branch",
+    "city": "Jimma Zone, Sokoru Town"
+  },
+  {
+    "branch_name": "Sokoru",
+    "district": "Jimma",
+    "latitude": 7.9222498,
+    "longitude": 37.4116541,
+    "city": "Oromia",
+    "phone_number": "0471417272",
+    "type": "Branch",
+    "city": "I/A/Bora Zone, Matu Town"
+  },
+  {
+    "branch_name": "Sor Micro ",
+    "district": "Jimma",
+    "latitude": 8.2968934,
+    "longitude": 35.5847636,
+    "city": "Oromia",
+    "phone_number": "047-556-1621",
+    "type": "Branch",
+    "city": "Shaka Zone, Tepi Town"
+  },
+  {
+    "branch_name": "Tobba ",
+    "district": "Jimma",
+    "latitude": 8.0041541,
+    "longitude": 36.4873171,
+    "city": "Oromia",
+    "phone_number": "047-333-0563",
+    "type": "Branch",
+    "city": "I/A/Bora Zone, Yayo Town"
+  },
+  {
+    "branch_name": "Yayo",
+    "district": "Jimma",
+    "latitude": 8.3424768,
+    "longitude": 35.8154871,
+    "city": "Oromia",
+    "phone_number": "04742260736",
+    "type": "Branch",
+    "city": "Jimma Zone, Yabu Town"
+  },
+  {
+    "branch_name": "Yebu",
+    "district": "Jimma",
+    "latitude": 7.7770935,
+    "longitude": 36.7279007,
+    "city": "Oromia",
+    "phone_number": "047-442-0380",
+    "type": "Branch",
+    "city": "Buno Bedelle Zone, Bedelle Town"
+  },
+  {
+    "branch_name": "Bonga",
+    "district": "Jimma",
+    "latitude": 7.2637877,
+    "longitude": 36.2463904,
+    "city": "South West Ethiopia People",
+    "phone_number": "047-337-0251",
+    "type": "Branch",
+    "city": "Buno Bedelle Zone, Chora Town"
+  },
+  {
+    "branch_name": "Mizan Aman",
+    "district": "Jimma",
+    "latitude": 6.9946089,
+    "longitude": 35.5917297,
+    "city": "South West Ethiopia People",
+    "phone_number": "0471510743",
+    "type": "Branch",
+    "city": "Gambella, New Land Town"
+  },
+  {
+    "branch_name": "Teppi",
+    "district": "Jimma",
+    "latitude": 7.1996371,
+    "longitude": 35.4155631,
+    "city": "South West Ethiopia People",
+    "phone_number": "0475400513",
+    "type": "Branch",
+    "city": "Jimma Zone, Tobba Town"
+  },
+  {
+    "branch_name": "Asosa",
+    "district": "Nekemte",
+    "latitude": 10.0594568,
+    "longitude": 34.5420418,
+    "city": " Benishangul-Gumuz",
+    "phone_number": "0577751410",
+    "type": "Branch",
+    "city": "Asosa"
+  },
+  {
+    "branch_name": "Qebe",
+    "district": "Nekemte",
+    "latitude": 8.9800769,
+    "longitude": 34.9721929,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Qebe"
+  },
+  {
+    "branch_name": "Bokku",
+    "district": "Nekemte",
+    "latitude": 9.0910082,
+    "longitude": 36.5464595,
+    "city": "Oromia",
+    "phone_number": "0576604742",
+    "type": "Branch",
+    "city": "East Wallaga Zone, Nekemte Town"
+  },
+  {
+    "branch_name": "Burqa Jato",
+    "district": "Nekemte",
+    "latitude": 9.0870326,
+    "longitude": 36.5474953,
+    "city": "Oromia",
+    "phone_number": "0576600611",
+    "type": "Branch",
+    "city": "East Wallaga Zone, Nekemte Town"
+  },
+  {
+    "branch_name": "Guduru",
+    "district": "Nekemte",
+    "latitude": 9.5052357,
+    "longitude": 37.4750223,
+    "city": "Oromia",
+    "phone_number": "0576630434",
+    "type": "Branch",
+    "city": "H/G/Wallaga Zone, Kombocha Town"
+  },
+  {
+    "branch_name": "Leqa",
+    "district": "Nekemte",
+    "latitude": 9.0900011,
+    "longitude": 36.5449263,
+    "city": "Oromia",
+    "phone_number": "0576616239",
+    "type": "Branch",
+    "city": "East Wallaga Zone, Nekemte Town"
+  },
+  {
+    "branch_name": "Muka Arara",
+    "district": "Nekemte",
+    "latitude": 9.0897303,
+    "longitude": 36.559946,
+    "city": "Oromia",
+    "phone_number": "0576608850",
+    "type": "Branch",
+    "city": "East Wallaga Zone, Nekemte Town"
+  },
+  {
+    "branch_name": "Nekemte",
+    "district": "Nekemte",
+    "latitude": 9.0877931,
+    "longitude": 36.5492484,
+    "city": "Oromia",
+    "phone_number": "0576615100",
+    "type": "Branch",
+    "city": "East Wallaga Zone, Nekemte Town"
+  },
+  {
+    "branch_name": "Adami ",
+    "district": "North Finfinne",
+    "latitude": 9.0570557,
+    "longitude": 38.7278182,
+    "city": "Addis Ababa",
+    "phone_number": "0112737730",
+    "type": "Branch",
+    "city": "Addis Ababa- Ruphael"
+  },
+  {
+    "branch_name": "Addisu Gebeya ",
+    "district": "North Finfinne",
+    "latitude": 9.0606862,
+    "longitude": 38.73617,
+    "city": "Addis Ababa",
+    "phone_number": "0111268073/61",
+    "type": "Branch",
+    "city": "Addis Ababa - Addisu Gebeya"
+  },
+  {
+    "branch_name": "Awaro",
+    "district": "North Finfinne",
+    "latitude": 9.0235887,
+    "longitude": 38.7784565,
+    "city": "Addis Ababa",
+    "phone_number": "0115579952",
+    "type": "Branch",
+    "city": "Addis Ababa - Setoch adebabay"
+  },
+  {
+    "branch_name": "Bakalcha ",
+    "district": "North Finfinne",
+    "latitude": 9.020018,
+    "longitude": 38.7947785,
+    "city": "Addis Ababa",
+    "phone_number": "0118683832",
+    "type": "Branch",
+    "city": "Addis Ababa - Lem hotel/megenagna"
+  },
+  {
+    "branch_name": "Bilile ",
+    "district": "North Finfinne",
+    "latitude": 9.0335877,
+    "longitude": 38.8449618,
+    "city": "Addis Ababa",
+    "phone_number": "0116680321",
+    "type": "Branch",
+    "city": "Addis Ababa - Wasan"
+  },
+  {
+    "branch_name": "Borri ",
+    "district": "North Finfinne",
+    "latitude": 9.0583236,
+    "longitude": 38.872983,
+    "city": "Addis Ababa",
+    "phone_number": "0118594367",
+    "type": "Branch",
+    "city": "Addis Ababa - Eeka abado condominium"
+  },
+  {
+    "branch_name": "Caffe Araraa",
+    "district": "North Finfinne",
+    "latitude": 9.0521362,
+    "longitude": 38.7602284,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa - Sidist kilo"
+  },
+  {
+    "branch_name": "CMC",
+    "district": "North Finfinne",
+    "latitude": 9.0214475,
+    "longitude": 38.8379582,
+    "city": "Addis Ababa",
+    "phone_number": "0116675892",
+    "type": "Branch",
+    "city": "Addis Ababa - CMC Under Guji Highland Bld."
+  },
+  {
+    "branch_name": "F/Legasiyon",
+    "district": "North Finfinne",
+    "latitude": 9.0568576,
+    "longitude": 38.7770681,
+    "city": "Addis Ababa",
+    "phone_number": "0111548492",
+    "type": "Branch",
+    "city": "Addis Ababa - Ferensay legasyon"
+  },
+  {
+    "branch_name": "Foolle",
+    "district": "North Finfinne",
+    "latitude": 9.0388174,
+    "longitude": 38.8498713,
+    "city": "Addis Ababa",
+    "phone_number": "0118904402",
+    "type": "Branch",
+    "city": "Addis Ababa - Kotebe Gebriel"
+  },
+  {
+    "branch_name": "Gulale ",
+    "district": "North Finfinne",
+    "latitude": 9.0524902,
+    "longitude": 38.7211118,
+    "city": "Addis Ababa",
+    "phone_number": "0112595553",
+    "type": "Branch",
+    "city": "Addis Ababa - Gulale"
+  },
+  {
+    "branch_name": "Harru Maru ",
+    "district": "North Finfinne",
+    "latitude": 9.029058,
+    "longitude": 38.8774852,
+    "city": "Addis Ababa",
+    "phone_number": "0116391020",
+    "type": "Branch",
+    "city": "Addis Ababa - Hayat adebabay"
+  },
+  {
+    "branch_name": "Karra Allo ",
+    "district": "North Finfinne",
+    "latitude": 9.0406908,
+    "longitude": 38.8650972,
+    "city": "Addis Ababa",
+    "phone_number": "0118680608",
+    "type": "Branch",
+    "city": "Addis Ababa - Karra Alo"
+  },
+  {
+    "branch_name": "Karra Xuxxo ",
+    "district": "North Finfinne",
+    "latitude": 9.06462,
+    "longitude": 38.7455957,
+    "city": "Addis Ababa",
+    "phone_number": "0111267321",
+    "type": "Branch",
+    "city": "Addis Ababa - Kechene"
+  },
+  {
+    "branch_name": "Kotobe ",
+    "district": "North Finfinne",
+    "latitude": 9.0360069,
+    "longitude": 38.8288794,
+    "city": "Addis Ababa",
+    "phone_number": "0116675112",
+    "type": "Branch",
+    "city": "Addis Ababa - Kotebe"
+  },
+  {
+    "branch_name": "Lamberet ",
+    "district": "North Finfinne",
+    "latitude": 9.0212258,
+    "longitude": 38.8106415,
+    "city": "Addis Ababa",
+    "phone_number": "0116403383",
+    "type": "Branch",
+    "city": "Addis Ababa -  Lamberet"
+  },
+  {
+    "branch_name": "Laga Tafo ",
+    "district": "North Finfinne",
+    "latitude": 9.0659191,
+    "longitude": 38.8873482,
+    "city": "Addis Ababa",
+    "phone_number": "0116609051",
+    "type": "Branch",
+    "city": "Addis Ababa - Laga Tafo"
+  },
+  {
+    "branch_name": "Madaro ",
+    "district": "North Finfinne",
+    "latitude": 9.0203949,
+    "longitude": 38.7994012,
+    "city": "Addis Ababa",
+    "phone_number": "0116686562",
+    "type": "Branch",
+    "city": "Addis Ababa - Megenagna"
+  },
+  {
+    "branch_name": "Mujja ",
+    "district": "North Finfinne",
+    "latitude": 9.0674877,
+    "longitude": 38.7609072,
+    "city": "Addis Ababa",
+    "phone_number": "0111542334",
+    "type": "Branch",
+    "city": "Addis Ababa - Shiro meda"
+  },
+  {
+    "branch_name": "Rabadori",
+    "district": "North Finfinne",
+    "latitude": 9.0251538,
+    "longitude": 38.8249307,
+    "city": "Addis Ababa",
+    "phone_number": "0116732029",
+    "type": "Branch",
+    "city": "Addis Ababa - Lamberet beside of Ministry of mineral"
+  },
+  {
+    "branch_name": "Debre Berhan",
+    "district": "North Finfinne",
+    "latitude": 9.6802248,
+    "longitude": 39.5370288,
+    "city": "Amhara",
+    "phone_number": "0116376138",
+    "type": "Branch",
+    "city": "Debre birhan"
+  },
+  {
+    "branch_name": "Abichu Nya'a ",
+    "district": "North Finfinne",
+    "latitude": 9.655601,
+    "longitude": 39.3178675,
+    "city": "Oromia",
+    "phone_number": "0116210511",
+    "type": "Branch",
+    "city": "Mandida"
+  },
+  {
+    "branch_name": "Alaltu ",
+    "district": "North Finfinne",
+    "latitude": 9.1962368,
+    "longitude": 39.1530928,
+    "city": "Oromia",
+    "phone_number": 1163100510,
+    "type": "Branch",
+    "city": "Alaltu"
+  },
+  {
+    "branch_name": "Bake ",
+    "district": "North Finfinne",
+    "latitude": 9.1620061,
+    "longitude": 39.0640348,
+    "city": "Oromia",
+    "phone_number": "0116607196",
+    "type": "Branch",
+    "city": "Sendafa"
+  },
+  {
+    "branch_name": "Chancho ",
+    "district": "North Finfinne",
+    "latitude": 9.3067085,
+    "longitude": 38.7526466,
+    "city": "Oromia",
+    "phone_number": "0111880136",
+    "type": "Branch",
+    "city": "Chancho"
+  },
+  {
+    "branch_name": "Dale Dambal ",
+    "district": "North Finfinne",
+    "latitude": 9.0811015,
+    "longitude": 38.9072758,
+    "city": "Oromia",
+    "phone_number": "0116679320",
+    "type": "Branch",
+    "city": "Laga Tafo"
+  },
+  {
+    "branch_name": "Derra ",
+    "district": "North Finfinne",
+    "latitude": 10.2249301,
+    "longitude": 38.6973709,
+    "city": "Oromia",
+    "phone_number": "0111150493",
+    "type": "Branch",
+    "city": "Gundo Maskala"
+  },
+  {
+    "branch_name": "Didimtu",
+    "district": "North Finfinne",
+    "latitude": 9.0635575,
+    "longitude": 38.7211203,
+    "city": "Oromia",
+    "phone_number": "0112737322",
+    "type": "Branch",
+    "city": "Addis Ababa - Shegole"
+  },
+  {
+    "branch_name": "Fiche ",
+    "district": "North Finfinne",
+    "latitude": 9.7703229,
+    "longitude": 38.7401407,
+    "city": "Oromia",
+    "phone_number": "0111350692",
+    "type": "Branch",
+    "city": "Fiche"
+  },
+  {
+    "branch_name": "Hidhabu Abote",
+    "district": "North Finfinne",
+    "latitude": 9.9125793,
+    "longitude": 38.5183294,
+    "city": "Oromia",
+    "phone_number": "0111180858",
+    "type": "Branch",
+    "city": "Ejere"
+  },
+  {
+    "branch_name": "Hurufa Farado",
+    "district": "North Finfinne",
+    "latitude": 9.0711864,
+    "longitude": 38.8938746,
+    "city": "Oromia",
+    "phone_number": "0118334546",
+    "type": "Branch",
+    "city": "Laga Tafo CCD"
+  },
+  {
+    "branch_name": "Kuyyu ",
+    "district": "North Finfinne",
+    "latitude": 9.8051268,
+    "longitude": 38.4204824,
+    "city": "Oromia",
+    "phone_number": "0113311361",
+    "type": "Branch",
+    "city": "Garba guracha"
+  },
+  {
+    "branch_name": "Laga Bari ",
+    "district": "North Finfinne",
+    "latitude": 9.097497,
+    "longitude": 38.9526195,
+    "city": "Oromia",
+    "phone_number": "0111787672",
+    "type": "Branch",
+    "city": "Laga Dadi 44 mazoria"
+  },
+  {
+    "branch_name": "Laga Bilawo",
+    "district": "North Finfinne",
+    "latitude": 9.184676,
+    "longitude": 38.7592751,
+    "city": "Oromia",
+    "phone_number": "0118700572",
+    "type": "Branch",
+    "city": "Sululta"
+  },
+  {
+    "branch_name": "Muka Turi ",
+    "district": "North Finfinne",
+    "latitude": 9.5514528,
+    "longitude": 38.8718008,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Muka Turi"
+  },
+  {
+    "branch_name": "Mulo ",
+    "district": "North Finfinne",
+    "latitude": 9.2973451,
+    "longitude": 38.5653185,
+    "city": "Oromia",
+    "phone_number": "0111460322",
+    "type": "Branch",
+    "city": "Mulo"
+  },
+  {
+    "branch_name": "Salgan Eggu ",
+    "district": "North Finfinne",
+    "latitude": 9.8098156,
+    "longitude": 38.6433165,
+    "city": "Oromia",
+    "phone_number": "0111360646",
+    "type": "Branch",
+    "city": "Hambisso"
+  },
+  {
+    "branch_name": "Sandafa Bake ",
+    "district": "North Finfinne",
+    "latitude": 9.1518281,
+    "longitude": 39.0231575,
+    "city": "Oromia",
+    "phone_number": "0116860944/45",
+    "type": "Branch",
+    "city": "Sandafa"
+  },
+  {
+    "branch_name": "Shararo ",
+    "district": "North Finfinne",
+    "latitude": 9.6320071,
+    "longitude": 38.8324339,
+    "city": "Oromia",
+    "phone_number": "0111330934",
+    "type": "Branch",
+    "city": "Shararo"
+  },
+  {
+    "branch_name": "Shanan Jida ",
+    "district": "North Finfinne",
+    "latitude": 9.3563166,
+    "longitude": 38.998991,
+    "city": "Oromia",
+    "phone_number": "0116736228",
+    "type": "Branch",
+    "city": "Sirti"
+  },
+  {
+    "branch_name": "Sheno ",
+    "district": "North Finfinne",
+    "latitude": 9.3287694,
+    "longitude": 39.2927681,
+    "city": "Oromia",
+    "phone_number": "0116870001",
+    "type": "Branch",
+    "city": "Sheno"
+  },
+  {
+    "branch_name": "Shufune ",
+    "district": "North Finfinne",
+    "latitude": 9.1306853,
+    "longitude": 38.7416816,
+    "city": "Oromia",
+    "phone_number": "0118713500",
+    "type": "Branch",
+    "city": "Sululta"
+  },
+  {
+    "branch_name": "Sululta ",
+    "district": "North Finfinne",
+    "latitude": 9.1774912,
+    "longitude": 38.7573117,
+    "city": "Oromia",
+    "phone_number": "0111860426",
+    "type": "Branch",
+    "city": "Sululta"
+  },
+  {
+    "branch_name": "Tufa Muna ",
+    "district": "North Finfinne",
+    "latitude": 9.0698957,
+    "longitude": 38.7365209,
+    "city": "Oromia",
+    "phone_number": "0111547354",
+    "type": "Branch",
+    "city": "Addis Ababa - Dilber"
+  },
+  {
+    "branch_name": "Wabari",
+    "district": "North Finfinne",
+    "latitude": 9.680098,
+    "longitude": 39.0187994,
+    "city": "Oromia",
+    "phone_number": "0111450114",
+    "type": "Branch",
+    "city": "Wabari"
+  },
+  {
+    "branch_name": "Warra Jarso ",
+    "district": "North Finfinne",
+    "latitude": 10.0081243,
+    "longitude": 38.246134,
+    "city": "Oromia",
+    "phone_number": "0111870788",
+    "type": "Branch",
+    "city": "Qarre Goha"
+  },
+  {
+    "branch_name": "Wasarbi ",
+    "district": "North Finfinne",
+    "latitude": 9.114107,
+    "longitude": 38.723494,
+    "city": "Oromia",
+    "phone_number": "0118547740",
+    "type": "Branch",
+    "city": "Wasarbi"
+  },
+  {
+    "branch_name": "Yaya Gulale ",
+    "district": "North Finfinne",
+    "latitude": 9.6242602,
+    "longitude": 38.6465118,
+    "city": "Oromia",
+    "phone_number": "0111160540",
+    "type": "Branch",
+    "city": "Fital"
+  },
+  {
+    "branch_name": "Aje",
+    "district": "Shashamane",
+    "latitude": 7.2975418,
+    "longitude": 38.3565778,
+    "city": "Oromia",
+    "phone_number": "046-4560561",
+    "type": "Branch",
+    "city": "Ajje"
+  },
+  {
+    "branch_name": "Arsi Nagille",
+    "district": "Shashamane",
+    "latitude": 7.3558686,
+    "longitude": 38.6707389,
+    "city": "Oromia",
+    "phone_number": "046-116-23-24",
+    "type": "Branch",
+    "city": "Negele Arsi"
+  },
+  {
+    "branch_name": "Awasho",
+    "district": "Shashamane",
+    "latitude": 7.2025149,
+    "longitude": 38.6098787,
+    "city": "Oromia",
+    "phone_number": "0461107052",
+    "type": "Branch",
+    "city": "Shashemene"
+  },
+  {
+    "branch_name": "Batu",
+    "district": "Shashamane",
+    "latitude": 7.9284751,
+    "longitude": 38.717998,
+    "city": "Oromia",
+    "phone_number": "046-212-81-55",
+    "type": "Branch",
+    "city": "East Shoa, Batu Town"
+  },
+  {
+    "branch_name": "Bishan Guracha",
+    "district": "Shashamane",
+    "latitude": 7.0964924,
+    "longitude": 38.4828568,
+    "city": "Oromia",
+    "phone_number": "046-441-29-94",
+    "type": "Branch",
+    "city": "West Arsi, Bishan Guracha Town"
+  },
+  {
+    "BranchCode": "ET0010349",
+    "branch_name": "Burka",
+    "type": "Branch",
+    "city": "adama,adama,Oromia",
+    "phone_number": "",
+    "latitude": 8.5058736,
+    "longitude": 39.2822552,
+    "district": "Adama"
+  },
+  {
+    "branch_name": "Burka Walabu",
+    "district": "Shashamane",
+    "latitude": 5.9132997,
+    "longitude": 39.6402438,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Bale, Bidire Town"
+  },
+  {
+    "branch_name": "Fajir",
+    "district": "Shashamane",
+    "latitude": 7.1960117,
+    "longitude": 38.5981559,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "West Arsi, Shashemene Town"
+  },
+  {
+    "branch_name": "Ginnir",
+    "district": "Shashamane",
+    "latitude": 7.1398982,
+    "longitude": 40.7103117,
+    "city": "Oromia",
+    "phone_number": "022-664-01-95",
+    "type": "Branch",
+    "city": "East Bale, Ginnir Town"
+  },
+  {
+    "branch_name": "Goba",
+    "district": "Shashamane",
+    "latitude": 7.0123763,
+    "longitude": 39.9724486,
+    "city": "Oromia",
+    "phone_number": "022-661-25-40",
+    "type": "Branch",
+    "city": "Bale, Goba Town"
+  },
+  {
+    "branch_name": "Goro",
+    "district": "Shashamane",
+    "latitude": 6.9948648,
+    "longitude": 40.4814615,
+    "city": "Oromia",
+    "phone_number": "022-44770699",
+    "type": "Branch",
+    "city": "Bale, Goro Town"
+  },
+  {
+    "branch_name": "Hamza Mesgid",
+    "district": "Shashamane",
+    "latitude": 7.1984534,
+    "longitude": 38.6150583,
+    "city": "Oromia",
+    "phone_number": "046-211-3838",
+    "type": "Branch",
+    "city": "West Arsi, Shashemene Town"
+  },
+  {
+    "branch_name": "Hara Dambal",
+    "district": "Shashamane",
+    "latitude": 7.9234633,
+    "longitude": 38.7145271,
+    "city": "Oromia",
+    "phone_number": "0461412242",
+    "type": "Branch",
+    "city": "East Shoa, Batu Town"
+  },
+  {
+    "branch_name": "Haro Dumal",
+    "district": "Shashamane",
+    "latitude": 6.7511574,
+    "longitude": 40.1751811,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Bale, Haro Dumal Town"
+  },
+  {
+    "branch_name": "Harufa",
+    "district": "Shashamane",
+    "latitude": 7.1924389,
+    "longitude": 38.5916241,
+    "city": "Oromia",
+    "phone_number": "046-211-75-75",
+    "type": "Branch",
+    "city": "West Arsi, Shashemene Town"
+  },
+  {
+    "branch_name": "Hasasa",
+    "district": "Shashamane",
+    "latitude": 7.103064,
+    "longitude": 39.1954854,
+    "city": "Oromia",
+    "phone_number": "022-336-1155",
+    "type": "Branch",
+    "city": "West Arsi, Hasasa Town"
+  },
+  {
+    "branch_name": "Heban Arsi",
+    "district": "Shashamane",
+    "latitude": 7.4403586,
+    "longitude": 38.6754247,
+    "city": "Oromia",
+    "phone_number": "046-328-7272",
+    "type": "Branch",
+    "city": "West Arsi, Heben Arsi Town"
+  },
+  {
+    "branch_name": "Iman",
+    "district": "Shashamane",
+    "latitude": 7.102855,
+    "longitude": 39.1953464,
+    "city": "Oromia",
+    "phone_number": "022-336-1030",
+    "type": "Branch",
+    "city": "West Arsi, Hasasa Town"
+  },
+  {
+    "branch_name": "Kiltu Dema",
+    "district": "Shashamane",
+    "latitude": 7.3573682,
+    "longitude": 38.6711087,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "West Arsi, Negele Arsi Town"
+  },
+  {
+    "branch_name": "Kuyera",
+    "district": "Shashamane",
+    "latitude": 7.2652089,
+    "longitude": 38.6564501,
+    "city": "Oromia",
+    "phone_number": "046-118-04-42",
+    "type": "Branch",
+    "city": "West Arsi, Kuyera Town"
+  },
+  {
+    "branch_name": "Madawalabu",
+    "district": "Shashamane",
+    "latitude": 7.1321047,
+    "longitude": 40.0010527,
+    "city": "Oromia",
+    "phone_number": "022-244-9045",
+    "type": "Branch",
+    "city": "Bale, Robe Town"
+  },
+  {
+    "branch_name": "Robe",
+    "district": "Shashamane",
+    "latitude": 7.1017756,
+    "longitude": 40.0004186,
+    "city": "Oromia",
+    "phone_number": "022-665--28-71/022-244-0042",
+    "type": "Branch",
+    "city": "Bale, Robe"
+  },
+  {
+    "branch_name": "Sanate Micro",
+    "district": "Shashamane",
+    "latitude": 7.0083753,
+    "longitude": 39.9690001,
+    "city": "Oromia",
+    "phone_number": "022661-27-99",
+    "type": "Branch",
+    "city": "Bale, Goba Town"
+  },
+  {
+    "branch_name": "Shashemane\u00a0",
+    "district": "Shashamane",
+    "latitude": 7.1960323,
+    "longitude": 38.5975808,
+    "city": "Oromia",
+    "phone_number": "046-110-50-90",
+    "type": "Branch",
+    "city": "West Arsi, Shashemene Town"
+  },
+  {
+    "branch_name": "Sinana",
+    "district": "Shashamane",
+    "latitude": 7.1005806,
+    "longitude": 39.9999725,
+    "city": "Oromia",
+    "phone_number": "022-244-3031",
+    "type": "Branch",
+    "city": "Bale, Robe Town"
+  },
+  {
+    "branch_name": "Sofumar\u00a0",
+    "district": "Shashamane",
+    "latitude": 7.1214509,
+    "longitude": 39.9983963,
+    "city": "Oromia",
+    "phone_number": "022-244-11-30",
+    "type": "Branch",
+    "city": "Bale, Robe Town"
+  },
+  {
+    "branch_name": "Uta Wayyu",
+    "district": "Shashamane",
+    "latitude": 7.2050345,
+    "longitude": 38.5954173,
+    "city": "Oromia",
+    "phone_number": "046-110-39-98",
+    "type": "Branch",
+    "city": "West Arsi, Shashemene Town"
+  },
+  {
+    "branch_name": "Bakanisa",
+    "district": "South Finfinne",
+    "latitude": 8.9713489,
+    "longitude": 38.7314185,
+    "city": "Addis Ababa",
+    "phone_number": "0113698729",
+    "type": "Branch",
+    "city": "Addis Abab - Bekanisa"
+  },
+  {
+    "branch_name": "Burqa Wayu",
+    "district": "South Finfinne",
+    "latitude": 8.9378096,
+    "longitude": 38.7355096,
+    "city": "Addis Ababa",
+    "phone_number": "0114711847",
+    "type": "Branch",
+    "city": "Addis Ababa - Mebrat haile/Haile Garment"
+  },
+  {
+    "branch_name": "Butta",
+    "district": "South Finfinne",
+    "latitude": 8.9655233,
+    "longitude": 38.733055,
+    "city": "Addis Ababa",
+    "phone_number": "0118353135",
+    "type": "Branch",
+    "city": "Addis Ababa - Around Garment Square"
+  },
+  {
+    "branch_name": "Chalchali",
+    "district": "South Finfinne",
+    "latitude": 8.9922442,
+    "longitude": 38.7392951,
+    "city": "Addis Ababa",
+    "phone_number": "0113853320",
+    "type": "Branch",
+    "city": "Addis Ababa - Sarbet"
+  },
+  {
+    "branch_name": "Furi",
+    "district": "South Finfinne",
+    "latitude": 8.9514248,
+    "longitude": 38.6873128,
+    "city": "Addis Ababa",
+    "phone_number": "0113679154",
+    "type": "Branch",
+    "city": "Furi"
+  },
+  {
+    "branch_name": "Gara Bolo",
+    "district": "South Finfinne",
+    "latitude": 8.9530954,
+    "longitude": 38.6966178,
+    "city": "Addis Ababa",
+    "phone_number": "0118339535",
+    "type": "Branch",
+    "city": "Addis Ababa - Jamo 3"
+  },
+  {
+    "branch_name": "Gofa Gebriel",
+    "district": "South Finfinne",
+    "latitude": 8.9766177,
+    "longitude": 38.748499,
+    "city": "Addis Ababa",
+    "phone_number": "0114701673",
+    "type": "Branch",
+    "city": "Addis Ababa - Gofa Gebreal"
+  },
+  {
+    "branch_name": "Gofa Mazoria",
+    "district": "South Finfinne",
+    "latitude": 8.9873647,
+    "longitude": 38.7451635,
+    "city": "Addis Ababa",
+    "phone_number": "0114700035",
+    "type": "Branch",
+    "city": "Addis Ababa - Kera"
+  },
+  {
+    "branch_name": "Gotera",
+    "district": "South Finfinne",
+    "latitude": 8.9751849,
+    "longitude": 38.7604666,
+    "city": "Addis Ababa",
+    "phone_number": "0114707822",
+    "type": "Branch",
+    "city": "Addis Ababa - Gotera"
+  },
+  {
+    "branch_name": "Guge",
+    "district": "South Finfinne",
+    "latitude": 8.9826071,
+    "longitude": 38.7301371,
+    "city": "Addis Ababa",
+    "phone_number": "0113692792",
+    "type": "Branch",
+    "city": "Addis Ababa - Bekanisa Abo"
+  },
+  {
+    "branch_name": "Halchisa",
+    "district": "South Finfinne",
+    "latitude": 8.943064,
+    "longitude": 38.7533436,
+    "city": "Addis Ababa",
+    "phone_number": "0118889214",
+    "type": "Branch",
+    "city": "Addis Ababa - Saris 58 Mazoria"
+  },
+  {
+    "branch_name": "Horsisa",
+    "district": "South Finfinne",
+    "latitude": 8.9222664,
+    "longitude": 38.7350869,
+    "city": "Addis Ababa",
+    "phone_number": "0118889202",
+    "type": "Branch",
+    "city": "Addis Ababa -Sefera Nahom Square"
+  },
+  {
+    "branch_name": "Ittimaakoo",
+    "district": "South Finfinne",
+    "latitude": 8.948451,
+    "longitude": 38.7368846,
+    "city": "Addis Ababa",
+    "phone_number": "0113150494",
+    "type": "Branch",
+    "city": "Addis Ababa - Around Lafto Mebrat"
+  },
+  {
+    "branch_name": "Jammoo",
+    "district": "South Finfinne",
+    "latitude": 8.960976,
+    "longitude": 38.7148649,
+    "city": "Addis Ababa",
+    "phone_number": "0114713469",
+    "type": "Branch",
+    "city": "Addis Ababa - Jemo"
+  },
+  {
+    "branch_name": "Lafto",
+    "district": "South Finfinne",
+    "latitude": 8.9510437,
+    "longitude": 38.7446727,
+    "city": "Addis Ababa",
+    "phone_number": "0114710481",
+    "type": "Branch",
+    "city": "Addis Ababa - Lafto"
+  },
+  {
+    "branch_name": "Labu",
+    "district": "South Finfinne",
+    "latitude": 8.9492093,
+    "longitude": 38.7188922,
+    "city": "Addis Ababa",
+    "phone_number": "0114313613",
+    "type": "Branch",
+    "city": "Addis Ababa - Labu"
+  },
+  {
+    "branch_name": "Lume",
+    "district": "South Finfinne",
+    "latitude": 8.9601913,
+    "longitude": 38.7653339,
+    "city": "Addis Ababa",
+    "phone_number": "0114709913",
+    "type": "Branch",
+    "city": "Addis Ababa - Saris"
+  },
+  {
+    "branch_name": "Mako Bili",
+    "district": "South Finfinne",
+    "latitude": 8.9488981,
+    "longitude": 38.7310912,
+    "city": "Addis Ababa",
+    "phone_number": "01114702802",
+    "type": "Branch",
+    "city": "Addis Ababa - Lebu Mebrat Hayil"
+  },
+  {
+    "branch_name": "Marawa",
+    "district": "South Finfinne",
+    "latitude": 8.9531979,
+    "longitude": 38.692714,
+    "city": "Addis Ababa",
+    "phone_number": "0118838084",
+    "type": "Branch",
+    "city": "Furi"
+  },
+  {
+    "branch_name": "Marde",
+    "district": "South Finfinne",
+    "latitude": 8.995109,
+    "longitude": 38.729033,
+    "city": "Addis Ababa",
+    "phone_number": "0113692165",
+    "type": "Branch",
+    "city": "Addis Ababa - Bisrate Gebreal"
+  },
+  {
+    "branch_name": "Qacha",
+    "district": "South Finfinne",
+    "latitude": 8.984451,
+    "longitude": 38.707136,
+    "city": "Addis Ababa",
+    "phone_number": "0113693746",
+    "type": "Branch",
+    "city": "Addis Ababa - Around Zenebework"
+  },
+  {
+    "branch_name": "Qorke Kerabu",
+    "district": "South Finfinne",
+    "latitude": 8.9665372,
+    "longitude": 38.6727089,
+    "city": "Addis Ababa",
+    "phone_number": "0113540827",
+    "type": "Branch",
+    "city": "Walate Tele"
+  },
+  {
+    "branch_name": "Tikse Jima",
+    "district": "South Finfinne",
+    "latitude": 8.9683032,
+    "longitude": 38.7219262,
+    "city": "Addis Ababa",
+    "phone_number": "0113639497",
+    "type": "Branch",
+    "city": "Addis Ababa -Jemo Michael"
+  },
+  {
+    "branch_name": "Tulu Ejersa",
+    "district": "South Finfinne",
+    "latitude": 8.9299704,
+    "longitude": 38.7425238,
+    "city": "Addis Ababa",
+    "phone_number": "011 471 1928",
+    "type": "Branch",
+    "city": "Addis Ababa - Hana Mariam"
+  },
+  {
+    "branch_name": "Asgori",
+    "district": "South Finfinne",
+    "latitude": 8.7925092,
+    "longitude": 38.3332448,
+    "city": "Oromia",
+    "phone_number": "0113510919",
+    "type": "Branch",
+    "city": "Asgori"
+  },
+  {
+    "branch_name": "Ayetu",
+    "district": "South Finfinne",
+    "latitude": 8.5423321,
+    "longitude": 37.9741138,
+    "city": "Oromia",
+    "phone_number": "0113664885",
+    "type": "Branch",
+    "city": "Waliso Town"
+  },
+  {
+    "branch_name": "Bantu",
+    "district": "South Finfinne",
+    "latitude": 8.6148115,
+    "longitude": 38.3657516,
+    "city": "Oromia",
+    "phone_number": "0113130438",
+    "type": "Branch",
+    "city": "South West Shewa, Bantu Town"
+  },
+  {
+    "branch_name": "Dawo",
+    "district": "South Finfinne",
+    "latitude": 8.7760778,
+    "longitude": 38.1475619,
+    "city": "Oromia",
+    "phone_number": "0113420467",
+    "type": "Branch",
+    "city": "South West Shewa, Busa Town"
+  },
+  {
+    "branch_name": "Haro Wanchi",
+    "district": "South Finfinne",
+    "latitude": 8.7837863,
+    "longitude": 37.8639974,
+    "city": "Oromia",
+    "phone_number": "0113560421",
+    "type": "Branch",
+    "city": "South West Shewa, Wanchi Town"
+  },
+  {
+    "branch_name": "Jahan Amaya",
+    "district": "South Finfinne",
+    "latitude": 8.5953784,
+    "longitude": 37.7594745,
+    "city": "Oromia",
+    "phone_number": "0113150494",
+    "type": "Branch",
+    "city": "South West Shewa, Gindo Town"
+  },
+  {
+    "branch_name": "Leman",
+    "district": "South Finfinne",
+    "latitude": 8.6030708,
+    "longitude": 38.6075833,
+    "city": "Oromia",
+    "phone_number": "0113630304",
+    "type": "Branch",
+    "city": "South West Shewa, Leman"
+  },
+  {
+    "branch_name": "Nono",
+    "district": "South Finfinne",
+    "latitude": 8.5358945,
+    "longitude": 37.4291495,
+    "city": "Oromia",
+    "phone_number": "0118845846/47",
+    "type": "Branch",
+    "city": "West hoa, Silk Amba Town"
+  },
+  {
+    "branch_name": "Sabata Ayo",
+    "district": "South Finfinne",
+    "latitude": 8.9316466,
+    "longitude": 38.6623967,
+    "city": "Oromia",
+    "phone_number": "0113870948",
+    "type": "Branch",
+    "city": "Alemgena Town"
+  },
+  {
+    "branch_name": "Sabata Hawas",
+    "district": "South Finfinne",
+    "latitude": 8.5358945,
+    "longitude": 37.4291495,
+    "city": "Oromia",
+    "phone_number": "0113380094",
+    "type": "Branch",
+    "city": "Sabata"
+  },
+  {
+    "branch_name": "Sadan Soddo",
+    "district": "South Finfinne",
+    "latitude": 8.4661092,
+    "longitude": 38.2511622,
+    "city": "Oromia",
+    "phone_number": "0113250525",
+    "type": "Branch",
+    "city": "South West Shewa, Arbu Chululle Town"
+  },
+  {
+    "branch_name": "Soddo Dachie",
+    "district": "South Finfinne",
+    "latitude": 8.5136848,
+    "longitude": 38.632828,
+    "city": "Oromia",
+    "phone_number": "0113631662",
+    "type": "Branch",
+    "city": "South West Shewa, Tare Town"
+  },
+  {
+    "branch_name": "Teji",
+    "district": "South Finfinne",
+    "latitude": 8.8309679,
+    "longitude": 38.3701959,
+    "city": "Oromia",
+    "phone_number": "0113390490",
+    "type": "Branch",
+    "city": "South West Shewa, Taji Town"
+  },
+  {
+    "branch_name": "Torban Wale",
+    "district": "South Finfinne",
+    "latitude": 8.6403462,
+    "longitude": 38.057029,
+    "city": "Oromia",
+    "phone_number": "0113530399",
+    "type": "Branch",
+    "city": "South West Shewa, Dilela Town/Koshe Area"
+  },
+  {
+    "branch_name": "Tuluboloo",
+    "district": "South Finfinne",
+    "latitude": 8.6613287,
+    "longitude": 38.2130573,
+    "city": "Oromia",
+    "phone_number": "0113420883",
+    "type": "Branch",
+    "city": "South West Shewa, Tullu Bolo Town"
+  },
+  {
+    "branch_name": "Waliso",
+    "district": "South Finfinne",
+    "latitude": 8.539692,
+    "longitude": 37.9719947,
+    "city": "Oromia",
+    "phone_number": "0113411780",
+    "type": "Branch",
+    "city": "South West Shewa, Weliso Town"
+  },
+  {
+    "branch_name": "Daraba Bido",
+    "district": "South Finfinne",
+    "latitude": 8.4003133,
+    "longitude": 37.8605517,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "South west Shewa, Goro Town"
+  },
+  {
+    "branch_name": "Ansar",
+    "district": "West Finfinne",
+    "latitude": 8.9824332,
+    "longitude": 38.6941089,
+    "city": "Addis Ababa",
+    "phone_number": "0113693976",
+    "type": "Branch",
+    "city": "Addis Ababa, Ayertena"
+  },
+  {
+    "branch_name": "Asko",
+    "district": "West Finfinne",
+    "latitude": 9.0643571,
+    "longitude": 38.6940961,
+    "city": "Addis Ababa",
+    "phone_number": "0112730372",
+    "type": "Branch",
+    "city": "Addis Ababa, Asko"
+  },
+  {
+    "branch_name": "Atale Jatani",
+    "district": "West Finfinne",
+    "latitude": 9.0411155,
+    "longitude": 38.7127676,
+    "city": "Addis Ababa",
+    "phone_number": "0112739939",
+    "type": "Branch",
+    "city": "Addis Ababa, Kolfe Efoyta"
+  },
+  {
+    "branch_name": "Ayer Tena",
+    "district": "West Finfinne",
+    "latitude": 8.9821611,
+    "longitude": 38.6949466,
+    "city": "Addis Ababa",
+    "phone_number": "0113693112",
+    "type": "Branch",
+    "city": "Addis Ababa, Ayer Tena"
+  },
+  {
+    "branch_name": "Bethel",
+    "district": "West Finfinne",
+    "latitude": 9.0037238,
+    "longitude": 38.6931029,
+    "city": "Addis Ababa",
+    "phone_number": "0113491316",
+    "type": "Branch",
+    "city": "Addis Ababa, Bethel"
+  },
+  {
+    "branch_name": "Boke",
+    "district": "West Finfinne",
+    "latitude": 9.0036194,
+    "longitude": 38.6955738,
+    "city": "Addis Ababa",
+    "phone_number": "0113697336",
+    "type": "Branch",
+    "city": "Addis Ababa, Bethel on the road of Weira"
+  },
+  {
+    "branch_name": "Hayu",
+    "district": "West Finfinne",
+    "latitude": 9.0041981,
+    "longitude": 38.6855264,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa, Between Bethel & Alem bank"
+  },
+  {
+    "branch_name": "Irbu",
+    "district": "West Finfinne",
+    "latitude": 9.0062628,
+    "longitude": 38.6849428,
+    "city": "Addis Ababa",
+    "phone_number": "0113697336",
+    "type": "Branch",
+    "city": "Addis Ababa, Bethel New road, Silessie Exit"
+  },
+  {
+    "branch_name": "Karra Qore",
+    "district": "West Finfinne",
+    "latitude": 8.9794027,
+    "longitude": 38.6853388,
+    "city": "Addis Ababa",
+    "phone_number": "011-369-5887",
+    "type": "Branch",
+    "city": "Addis Ababa, Kara Kore"
+  },
+  {
+    "branch_name": "Kolfe",
+    "district": "West Finfinne",
+    "latitude": 9.0400435,
+    "longitude": 38.7156951,
+    "city": "Addis Ababa",
+    "phone_number": "0112791630/2006",
+    "type": "Branch",
+    "city": "Addis Ababa, Kolfe"
+  },
+  {
+    "branch_name": "Kombe",
+    "district": "West Finfinne",
+    "latitude": 9.0001329,
+    "longitude": 38.6787878,
+    "city": "Addis Ababa",
+    "phone_number": "0113695750",
+    "type": "Branch",
+    "city": "Addis Ababa, Alembank"
+  },
+  {
+    "branch_name": "Kusaye ",
+    "district": "West Finfinne",
+    "latitude": 9.033519,
+    "longitude": 38.7120342,
+    "city": "Addis Ababa",
+    "phone_number": "0112739122",
+    "type": "Branch",
+    "city": "Addis Ababa, Kolfe Keranio"
+  },
+  {
+    "branch_name": "Makkat Al Mukaram ",
+    "district": "West Finfinne",
+    "latitude": 9.0186669,
+    "longitude": 38.7166484,
+    "city": "Addis Ababa",
+    "phone_number": "0113842830",
+    "type": "Branch",
+    "city": "Addis Ababa, Torhayloch Holand Embassy"
+  },
+  {
+    "branch_name": "Malka Gafarsa",
+    "district": "West Finfinne",
+    "latitude": 9.0352744,
+    "longitude": 38.6878736,
+    "city": "Addis Ababa",
+    "phone_number": "0118276991",
+    "type": "Branch",
+    "city": "Burayu"
+  },
+  {
+    "branch_name": "Nejashi",
+    "district": "West Finfinne",
+    "latitude": 9.0004639,
+    "longitude": 38.6775314,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa, Alembank"
+  },
+  {
+    "branch_name": "Qale",
+    "district": "West Finfinne",
+    "latitude": 9.0577815,
+    "longitude": 38.7014494,
+    "city": "Addis Ababa",
+    "phone_number": "0112731377",
+    "type": "Branch",
+    "city": "Addis Ababa, Kolfe Keranio"
+  },
+  {
+    "branch_name": "Teqwa",
+    "district": "West Finfinne",
+    "latitude": 9.0029768,
+    "longitude": 38.6941991,
+    "city": "Addis Ababa",
+    "phone_number": "0118342780",
+    "type": "Branch",
+    "city": "Addis Ababa, Bethel Near Takawa Mesjid"
+  },
+  {
+    "branch_name": "Adabarga",
+    "district": "West Finfinne",
+    "latitude": 9.3139139,
+    "longitude": 38.3784191,
+    "city": "Oromia",
+    "phone_number": "0112850590",
+    "type": "Branch",
+    "city": "Enchini"
+  },
+  {
+    "branch_name": "Ambo",
+    "district": "West Finfinne",
+    "latitude": 8.9823168,
+    "longitude": 37.8634457,
+    "city": "Oromia",
+    "phone_number": "0112364472/0112363820",
+    "type": "Branch",
+    "city": "Ambo"
+  },
+  {
+    "branch_name": "Bako Tibe ",
+    "district": "West Finfinne",
+    "latitude": 9.1195344,
+    "longitude": 37.0592361,
+    "city": "Oromia",
+    "phone_number": "0576651420",
+    "type": "Branch",
+    "city": "West Shewa, Bako Town"
+  },
+  {
+    "branch_name": "Burayu",
+    "district": "West Finfinne",
+    "latitude": 9.0658535,
+    "longitude": 38.6637833,
+    "city": "Oromia",
+    "phone_number": "0112844412",
+    "type": "Branch",
+    "city": "Burayu"
+  },
+  {
+    "branch_name": "Dire Inchini",
+    "district": "West Finfinne",
+    "latitude": 8.816992,
+    "longitude": 37.6627749,
+    "city": "Oromia",
+    "phone_number": "0112870445",
+    "type": "Branch",
+    "city": "West Shewa, Dire Enchini Town"
+  },
+  {
+    "branch_name": "Dire Sololiya",
+    "district": "West Finfinne",
+    "latitude": 9.0667133,
+    "longitude": 38.6495652,
+    "city": "Oromia",
+    "phone_number": "0112604979",
+    "type": "Branch",
+    "city": "Burayu"
+  },
+  {
+    "branch_name": "Ejere",
+    "district": "West Finfinne",
+    "latitude": 9.0467573,
+    "longitude": 38.3991964,
+    "city": "Oromia",
+    "phone_number": "0112615960",
+    "type": "Branch",
+    "city": "West Shewa, Ejere Town"
+  },
+  {
+    "branch_name": "Gedo",
+    "district": "West Finfinne",
+    "latitude": 9.0134497,
+    "longitude": 37.4495646,
+    "city": "Oromia",
+    "phone_number": "0572270049",
+    "type": "Branch",
+    "city": "West Shewa, Gedo Town"
+  },
+  {
+    "branch_name": "Gafarsa",
+    "district": "West Finfinne",
+    "latitude": 9.0273904,
+    "longitude": 38.6587561,
+    "city": "Oromia",
+    "phone_number": "0112601034",
+    "type": "Branch",
+    "city": "Gafarsa"
+  },
+  {
+    "branch_name": "Gafarsa Nono",
+    "district": "West Finfinne",
+    "latitude": 9.0327666,
+    "longitude": 38.6654788,
+    "city": "Oromia",
+    "phone_number": "0112320076",
+    "type": "Branch",
+    "city": "Burayu"
+  },
+  {
+    "branch_name": "Ginchi",
+    "district": "West Finfinne",
+    "latitude": 9.0302653,
+    "longitude": 38.1477632,
+    "city": "Oromia",
+    "phone_number": "0112580803",
+    "type": "Branch",
+    "city": "West Shewa, Ginchi Town"
+  },
+  {
+    "branch_name": "Goro Qerensa ",
+    "district": "West Finfinne",
+    "latitude": 9.0643414,
+    "longitude": 38.4920552,
+    "city": "Oromia",
+    "phone_number": "0112610879",
+    "type": "Branch",
+    "city": "Holota Town"
+  },
+  {
+    "BranchCode": "ET0010091",
+    "branch_name": "Gudar",
+    "type": "Branch",
+    "city": "Woreda 02,Guder,Oromia",
+    "phone_number": "0112820675",
+    "latitude": 8.9708291,
+    "longitude": 37.7604388,
+    "district": "West Finfinne"
+  },
+  {
+    "branch_name": "Holota",
+    "district": "West Finfinne",
+    "latitude": 9.0658587,
+    "longitude": 38.495652,
+    "city": "Oromia",
+    "phone_number": "0112370553",
+    "type": "Branch",
+    "city": "Finfinne Special Zone, Holeta Town"
+  },
+  {
+    "branch_name": "Ilu Galan",
+    "district": "West Finfinne",
+    "latitude": 8.9995524,
+    "longitude": 37.325736,
+    "city": "Oromia",
+    "phone_number": "0575500609",
+    "type": "Branch",
+    "city": "West Shewa, Ijaji"
+  },
+  {
+    "branch_name": "Jagama Badhane",
+    "district": "West Finfinne",
+    "latitude": 8.9822268,
+    "longitude": 37.8555743,
+    "city": "Oromia",
+    "phone_number": "0112604797",
+    "type": "Branch",
+    "city": "West Shewa, Ambo Town"
+  },
+  {
+    "branch_name": "Jibat",
+    "district": "West Finfinne",
+    "latitude": 8.73057,
+    "longitude": 37.4710956,
+    "city": "Oromia",
+    "phone_number": "0112390639",
+    "type": "Branch",
+    "city": "West Shewa, Shenan Town"
+  },
+  {
+    "branch_name": "Katta ",
+    "district": "West Finfinne",
+    "latitude": 9.0721437,
+    "longitude": 38.6836158,
+    "city": "Oromia",
+    "phone_number": "0112625777",
+    "type": "Branch",
+    "city": "Burayu Kata"
+  },
+  {
+    "branch_name": "Kolobo ",
+    "district": "West Finfinne",
+    "latitude": 9.0563287,
+    "longitude": 38.5703227,
+    "city": "Oromia",
+    "phone_number": "0112600118",
+    "type": "Branch",
+    "city": "Kolobo Town"
+  },
+  {
+    "branch_name": "Kutaye",
+    "district": "West Finfinne",
+    "latitude": 8.9820616,
+    "longitude": 37.8490752,
+    "city": "Oromia",
+    "phone_number": "0112609770",
+    "type": "Branch",
+    "city": "West Shewa, Ambo Town"
+  },
+  {
+    "branch_name": "Laga Saqo",
+    "district": "West Finfinne",
+    "latitude": 9.0746783,
+    "longitude": 38.6644869,
+    "city": "Oromia",
+    "phone_number": "0112625230",
+    "type": "Branch",
+    "city": "Burayu Tseratsion"
+  },
+  {
+    "branch_name": "Liban Jawi",
+    "district": "West Finfinne",
+    "latitude": 8.9728446,
+    "longitude": 37.5539522,
+    "city": "Oromia",
+    "phone_number": "0112620014",
+    "type": "Branch",
+    "city": "West Shewa, Babicha Town"
+  },
+  {
+    "branch_name": "Meta Walkite",
+    "district": "West Finfinne",
+    "latitude": 9.5240129,
+    "longitude": 38.2359951,
+    "city": "Oromia",
+    "phone_number": "011 2627517",
+    "type": "Branch",
+    "city": "West Shewa, Meta Wolkite Town"
+  },
+  {
+    "branch_name": "Mogor",
+    "district": "West Finfinne",
+    "latitude": 9.4405342,
+    "longitude": 38.3427515,
+    "city": "Oromia",
+    "phone_number": "0112180121",
+    "type": "Branch",
+    "city": "West Shewa, Mogor Town"
+  },
+  {
+    "branch_name": "Odo Liben",
+    "district": "West Finfinne",
+    "latitude": 8.9817214,
+    "longitude": 37.8756013,
+    "city": "Oromia",
+    "phone_number": "0112609805",
+    "type": "Branch",
+    "city": "West Shewa, Ambo Town"
+  },
+  {
+    "branch_name": "Olonkomi",
+    "district": "West Finfinne",
+    "latitude": 9.0041394,
+    "longitude": 38.2548657,
+    "city": "Oromia",
+    "phone_number": "0112850505",
+    "type": "Branch",
+    "city": "West Shewa, Olonkomi Town"
+  },
+  {
+    "branch_name": "Qajela Doyo",
+    "district": "West Finfinne",
+    "latitude": 9.0594812,
+    "longitude": 38.6081327,
+    "city": "Oromia",
+    "phone_number": "0112601387",
+    "type": "Branch",
+    "city": "Burayu"
+  },
+  {
+    "branch_name": "Wadesa",
+    "district": "West Finfinne",
+    "latitude": 8.9818124,
+    "longitude": 37.8495359,
+    "city": "Oromia",
+    "phone_number": "0112609894",
+    "type": "Branch",
+    "city": "West Shewa, Ambo Town"
+  },
+  {
+    "branch_name": "Ebisa Adugna",
+    "district": "West Finfinne",
+    "latitude": 9.0214353,
+    "longitude": 38.6757646,
+    "city": "Addis Ababa",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Addis Ababa - Anfo Roundabout"
+  },
+  {
+    "branch_name": "Oda Bisil",
+    "district": "West Finfinne",
+    "latitude": 8.764724,
+    "longitude": 37.2642723,
+    "city": "Oromia",
+    "phone_number": "0571140397",
+    "type": "Branch",
+    "city": "West Shewa, Sayo Town"
+  },
+  {
+    "branch_name": "Injibara ",
+    "district": "Bahir Dar Area Relationship Office",
+    "latitude": 10.9553983,
+    "longitude": 36.9334402,
+    "city": "Amhara",
+    "phone_number": "0582270304",
+    "type": "Branch",
+    "city": "Injibara"
+  },
+  {
+    "branch_name": "Botor Tolay",
+    "district": "Jimma",
+    "latitude": 8.310351,
+    "longitude": 37.3641504,
+    "city": "Oromia",
+    "phone_number": "-",
+    "type": "Branch",
+    "city": "Botor Tolay, Wayu Town"
+  },
+  {
+    "BranchCode": "ET0010334",
+    "branch_name": "General Wako Gutu",
+    "type": "Branch",
+    "city": " kebele 03 around ethiotelecom robe station,robe,Oromia",
+    "phone_number": "0222440523",
+    "latitude": 7.1261777,
+    "longitude": 40.004075,
+    "district": "Bale"
+  },
+  {
+    "BranchCode": "ET0010163",
+    "branch_name": "Gasera",
+    "type": "Branch",
+    "city": "01,Gasera,Oromia",
+    "phone_number": "0224620537",
+    "latitude": 7.3704816,
+    "longitude": 40.1876333,
+    "district": "Bale"
+  },
+  {
+    "BranchCode": "ET0010684",
+    "branch_name": "Rayan",
+    "type": "Branch",
+    "city": "Robe around ZAGOL fuel station,Bale Robe ,Oromia",
+    "phone_number": "0222440116",
+    "latitude": 7.1272152,
+    "longitude": 39.9945877,
+    "district": "Bale"
+  },
+  {
+    "BranchCode": "6286",
+    "branch_name": "Jarra",
+    "type": "Branch",
+    "city": "Jara 01,Jara,Oromia",
+    "phone_number": "0224780580",
+    "latitude": 7.368541,
+    "longitude": 40.5015445,
+    "district": "Bale"
+  },
+  {
+    "BranchCode": "ET0010427",
+    "branch_name": "Selam",
+    "type": "Branch",
+    "city": "Around Harar-Ber ,Ghinnir ,Oromia",
+    "phone_number": "022 664 1266",
+    "latitude": 7.1385956,
+    "longitude": 40.7120982,
+    "district": "Bale"
+  },
+  {
+    "BranchCode": "ET010653",
+    "branch_name": "Arba Eco Branch",
+    "type": "Branch",
+    "city": "booke tiko 08,West hararge,booke,arba,Oromia",
+    "phone_number": "0915180793",
+    "latitude": 8.590778,
+    "longitude": 40.8229957,
+    "district": "Chiro"
+  },
+  {
+    "BranchCode": "Et0010587",
+    "branch_name": "Haro Charchar",
+    "type": "Branch",
+    "city": "on the big road , between wachu secondary school and wachu OLA energy gass station ,Gelemso sub city wachu,Oromia",
+    "phone_number": "+251254490619",
+    "latitude": 8.8486783,
+    "longitude": 40.6244233,
+    "district": "Chiro"
+  },
+  {
+    "BranchCode": "ET0010534",
+    "branch_name": "Dhumugaa",
+    "type": "Branch",
+    "city": "Dhumuga East Arsi zone ,Dhumugaa ,Oromia",
+    "phone_number": "",
+    "latitude": 8.4275424,
+    "longitude": 40.2488978,
+    "district": "Chiro"
+  },
+  {
+    "BranchCode": "ET0010507",
+    "branch_name": "Gamachis",
+    "type": "Branch",
+    "city": "Gemechis woreda distance from chiro 17km,kune,Oromia",
+    "phone_number": "251253430684",
+    "latitude": 9.0024387,
+    "longitude": 40.8843339,
+    "district": "Chiro"
+  },
+  {
+    "BranchCode": "6654",
+    "branch_name": "Defo",
+    "type": "Branch",
+    "city": "west hararghe,chiro,Oromia",
+    "phone_number": "",
+    "latitude": 9.5941994,
+    "longitude": 41.8778027,
+    "district": "Chiro"
+  },
+  {
+    "BranchCode": "ET0010718",
+    "branch_name": "Kara Makala Eco Branch",
+    "type": "Branch",
+    "city": "Dader 02 kara makala,Dader,kara makala,Oromia",
+    "phone_number": "251949707099",
+    "latitude": 9.2262663,
+    "longitude": 41.3459973,
+    "district": "Chiro"
+  },
+  {
+    "BranchCode": "ET0010474",
+    "branch_name": "Bole Airport Cargo",
+    "type": "Branch",
+    "city": "cargo,bole,Addis Ababa",
+    "phone_number": "251114820018",
+    "latitude": 8.9806266,
+    "longitude": 38.7809813,
+    "district": "East Finfinne"
+  },
+  {
+    "BranchCode": "ET0010744",
+    "branch_name": "Gada Melba",
+    "type": "Branch",
+    "city": "lemmi kura 09,AA,Addis Ababa",
+    "phone_number": "",
+    "latitude": 8.9999557,
+    "longitude": 38.8301685,
+    "district": "East Finfinne"
+  },
+  {
+    "BranchCode": "ET0010638",
+    "branch_name": "Hambecho Eco Branch",
+    "type": "Branch",
+    "city": "Boloso sore Hembecho Mazegaja,Wolaita,Areka,Hembecho,South Ethiopia cityal State",
+    "phone_number": "",
+    "latitude": 7.1499066,
+    "longitude": 37.6609099,
+    "district": "Hosana"
+  },
+  {
+    "BranchCode": "ET0010562",
+    "branch_name": "Sankura",
+    "type": "Branch",
+    "city": "Alemgebeya ,Werabe ,Central Ethiopia cityal State",
+    "phone_number": "0462370512/0462370358",
+    "latitude": 7.561225,
+    "longitude": 38.1769499,
+    "district": "Hosana"
+  },
+  {
+    "BranchCode": "ET0010531",
+    "branch_name": "Nesiha",
+    "type": "Branch",
+    "city": "Mada wabe 01 around Barisa Adababay,Dodola,Oromia",
+    "phone_number": "0916916185",
+    "latitude": 6.972972972972973,
+    "longitude": 39.19077435529374,
+    "district": "Shashemene"
+  },
+  {
+    "BranchCode": "ET0010146",
+    "branch_name": "Adaba",
+    "type": "Branch",
+    "city": "02 kebele Adaba Administration side of,Adaba ,Oromia",
+    "phone_number": "0226631101",
+    "latitude": 7.0073555,
+    "longitude": 39.3927798,
+    "district": "Shashemene"
+  },
+  {
+    "BranchCode": "ET0010690",
+    "branch_name": "Serofta",
+    "type": "Branch",
+    "city": "dodola ,dodola,Oromia",
+    "phone_number": "-",
+    "latitude": 6.9880033,
+    "longitude": 39.1732667,
+    "district": "Shashemene"
+  },
+  {
+    "BranchCode": "ET0010755",
+    "branch_name": "Allache",
+    "type": "Branch",
+    "city": "Allache near to Jalo Hotel,shashamane,Oromia",
+    "phone_number": "-",
+    "latitude": 7.193244,
+    "longitude": 38.5942123,
+    "district": "Shashemene"
+  },
+  {
+    "BranchCode": "ET0010476",
+    "branch_name": "Negele Hasasa",
+    "type": "Branch",
+    "city": "Negele Hasasa,shashemene,Oromia",
+    "phone_number": "",
+    "latitude": 7.0963536,
+    "longitude": 39.1890922,
+    "district": "Shashemene"
+  },
+  {
+    "BranchCode": "ET0010734",
+    "branch_name": "Ona Jarsayu",
+    "type": "Branch",
+    "city": "Lideta 08 mechare meda,Addis Ababa,Addis Ababa",
+    "phone_number": "0113848222",
+    "latitude": 8.9960486,
+    "longitude": 38.7340488,
+    "district": "South FInfinne"
+  },
+  {
+    "BranchCode": "ET0010738",
+    "branch_name": "Jima Sanbate",
+    "type": "Branch",
+    "city": "Addis Ababa Kirkos sub city, woreda 02 on Garad Bulding,Addis Ababa,Addis Ababa",
+    "phone_number": "0115574404",
+    "latitude": 8.9931414,
+    "longitude": 38.7753691,
+    "district": "Central Finfinne"
+  }
+]
